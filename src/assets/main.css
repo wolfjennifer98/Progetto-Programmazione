@@ -1,0 +1,168 @@
+@import './base.css';
+
+#app {
+    margin: 0;
+        padding: 0;
+        width: 100%;
+        min-height: 100vh;
+        overflow-x: auto;
+        box-sizing: border-box;
+        background-color: var(--color-background);
+        color: var(--color-text);
+        font-family: 'VT323', 'Atkinson Hyperlegible', sans-serif;
+        line-height: 1.6;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale; }
+
+a,
+.green {
+    text-decoration: none;
+    font-weight: bold;
+    color: hsla(160, 100%, 37%, 1);
+    transition: 0.3s;
+    padding: 3px;
+}
+
+.card {
+    background-color: var(--color-background-soft);
+    border: 2px solid var(--color-border);
+    border-radius: 10px;
+    padding: 0.5rem;
+    box-shadow: 0 0 12px rgba(0, 255, 204, 0.2);
+    color: var(--color-text);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 20px rgba(0, 255, 204, 0.5);
+}
+
+.btn-scopri {
+    background-color: var(--color-border);
+    color: #000;
+    font-family: 'VT323', monospace;
+    padding: 6px 14px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.btn-scopri:hover {
+    background-color: #00ddaa;
+}
+
+.link-attivo {
+    background-color: #98f0a9;
+    color: #222 !important;
+    border: 2px solid #5ebd7c;
+    border-radius: 0.75rem;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); }
+
+
+@media (hover: hover) {
+    a:hover {
+        background-color: rgba(0, 255, 204, 0.1);
+        border-bottom: 2px solid #00ffcc;
+    }
+}
+@media (min-width: 768px) {
+    .row.flex-md-row {
+        display: flex;
+        flex-direction: row !important;
+    }
+        body {
+            display: flex;
+            place-items: center;
+        }
+    
+        #app {
+            display: grid;
+            padding: 0 2rem;
+        }
+    
+        .navbar {
+            background-color: #111;
+            border-bottom: 2px solid #00ffcc;
+            padding: 0;
+        }
+    
+        .navbar a {
+            color: #00ffcc;
+            margin: 0 10px;
+            font-size: 25px;
+        }
+    
+        .navbar a.active {
+            text-shadow: 0 0 5px #00ffcc;
+            color: #00ffcc;
+            border-bottom: 2px solid #00ffcc;
+        }
+    
+        .navbar-shadow {
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+        }
+    
+        .link-navbar {
+            font-size: 1.2rem;
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            letter-spacing: 0.5px;
+        }
+    
+        .login-card {
+            max-width: 400px;
+            width: 100%;
+        }
+    
+        .logo-navbar {
+            width: 40px;
+            height: 40px;
+            image-rendering: pixelated;
+        }
+        }
+@media (max-width: 768px) {
+    body {
+        display: flex;
+        place-items: center;
+    }
+
+    #app {
+        display: grid;
+        padding: 0 2rem;
+    }
+
+    .navbar {
+        background-color: #111;
+        border-bottom: 2px solid #00ffcc;
+        padding: 0;
+    }
+
+    .navbar a {
+        color: #00ffcc;
+        margin: 0 10px;
+        font-size: 25px;
+    }
+        .navbar-shadow {
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+            z-index: 1000;     }
+
+        .link-navbar {
+            font-size: 1.2rem;
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            letter-spacing: 0.5px;             }
+    .login-card {
+    max-width: 400px;
+    width: 100%;
+    }
+    .logo-navbar {
+            width: 40px;
+            height: 40px;
+            image-rendering: pixelated;     }
+}

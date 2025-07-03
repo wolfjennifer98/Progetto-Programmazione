@@ -1,0 +1,195 @@
+<template>
+  <Navbar :showBack="true" />
+  <div class="container mt-5 pt-3">
+    <div v-if="game && game.genres" class="row gx-5 gy-4">
+      <div class="col-12 col-lg-5 text-center">
+        <img
+          :src="game.image"
+          :alt="game.title"
+          class="img-fluid rounded w-100"
+          style="max-height: 320px; object-fit: contain"
+        />
+        <a
+          :href="game.trailer"
+          target="_blank"
+          class="d-flex flex-column align-items-center mt-3 text-decoration-none text-white"
+        >
+          <i class="bi bi-youtube fs-3"></i>
+          <span class="fw-bold small">Guarda il trailer</span>
+        </a>
+      </div>
+      <div class="col-12 col-lg-7 text-white">
+        <div class="d-flex align-items-center flex-wrap gap-2 mb-3">
+          <h1 class="fs-1 text-acqua m-0">{{ game.title }}</h1>
+          <button class="btn btn-outline-danger" @click="togglePreferito">
+            <i
+              :class="
+                isPreferito ? 'bi bi-heartbreak-fill' : 'bi bi-heart-fill'
+              "
+            ></i>
+          </button>
+        </div>
+        <p>
+          <strong class="text-acqua">Genere:</strong>
+          {{ game.genres.join(", ") }}
+        </p>
+        <p><strong class="text-acqua">Anno:</strong> {{ game.year }}</p>
+        <p>
+          <strong class="text-acqua">Developer:</strong> {{ game.developer }}
+        </p>
+        <p>
+          <strong class="text-acqua">Piattaforme:</strong>
+          {{ game.platforms.join(", ") }}
+        </p>
+        <p><strong class="text-acqua">Descrizione (No spoiler):</strong></p>
+        <p style="white-space: pre-wrap">{{ game.description }}</p>
+
+        <div class="mt-3">
+          <button
+            class="btn btn-warning"
+            @click="toggleSpoiler = !toggleSpoiler"
+          >
+            {{ toggleSpoiler ? "Nascondi Spoiler" : "Mostra Spoiler" }}
+          </button>
+          <transition name="fade">
+            <p v-if="toggleSpoiler" class="mt-2" style="white-space: pre-wrap">
+              {{ game.spoiler }}
+            </p>
+          </transition>
+        </div>
+
+        <div class="mt-4">
+          <img
+            :src="votoImagePath"
+            :alt="`Voto ${game.voto}`"
+            style="height: 50px"
+          />
+          <p class="mt-2">
+            <strong class="text-acqua">Recensione:</strong>
+            {{ game.recensione }}
+          </p>
+        </div>
+
+        <p class="overflow-hidden">
+          <strong class="text-acqua">Hai bisogno di aiuto?</strong>
+          <a :href="game.guide" target="_blank" class="text-white">
+            {{ game.guide }}
+          </a>
+        </p>
+
+        <button class="btn btn-outline-danger mt-3" @click="togglePreferito">
+          <i
+            :class="
+              isPreferito
+                ? 'bi bi-heartbreak-fill me-2'
+                : 'bi bi-heart-fill me-2'
+            "
+          ></i>
+          {{ isPreferito ? "Rimuovi dai preferiti" : "Aggiungi ai preferiti" }}
+        </button>
+      </div>
+    </div>
+
+    <div v-else class="text-center mt-5 text-white">
+      <p>Caricamento in corso o gioco non trovato.</p>
+    </div>
+  </div>
+</template>
+<script setup>
+import { ref, onMounted } from "vue";
+import { useRoute } from "vue-router";
+import {
+  createPreferiti,
+  removePreferiti,
+  getPreferitibynickname,
+} from "@/firebase/preferiti";
+import Navbar from "@/components/Navbar.vue";
+
+const route = useRoute();
+const game = ref({});
+const toggleSpoiler = ref(false);
+const votoImagePath = ref("");
+const isPreferito = ref(false);
+
+onMounted(async () => {
+  const id = route.params.id;
+
+  try {
+    const response = await fetch(`http://localhost:5000/games/${id}`);
+    if (!response.ok) throw new Error("Gioco non trovato");
+    game.value = await response.json();
+
+    votoImagePath.value = `/voti/${game.value.voto}.svg`;
+
+    const nickname = localStorage.getItem("utenteNickname");
+    if (nickname) {
+      const lista = await getPreferitibynickname(nickname);
+      isPreferito.value =
+        Array.isArray(lista) && lista.includes(game.value.title);
+    }
+  } catch (error) {
+    console.error("Errore nel recupero del gioco:", error);
+  }
+});
+
+async function togglePreferito() {
+  const nickname = localStorage.getItem("utenteNickname");
+  if (!nickname) {
+    alert("Effettua il login per salvare nei preferiti");
+    return;
+  }
+
+  try {
+    if (!isPreferito.value) {
+      await createPreferiti(nickname, game.value.title);
+      isPreferito.value = true;
+      alert("Gioco aggiunto correttamente ai preferiti!");
+    } else {
+      await removePreferiti(nickname, game.value.title);
+      isPreferito.value = false;
+      alert("Gioco rimosso dai preferiti!");
+    }
+  } catch (err) {
+    console.error("Errore:", err);
+    alert("Errore nella gestione dei preferiti. Riprova.");
+  }
+}
+</script>
+
+<style scoped>
+.text-acqua {
+  color: #00ffcc;
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s;
+}
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.content-wrapper {
+  padding-top: 80px;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.2rem;
+  }
+
+  p {
+    font-size: 0.95rem;
+    word-break: break-word;
+  }
+
+  .btn {
+    font-size: 0.9rem;
+    padding: 0.45rem 1rem;
+  }
+
+  .navbar-brand img {
+    max-height: 30px;
+  }
+}
+</style>
