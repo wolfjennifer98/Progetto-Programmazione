@@ -136,6 +136,7 @@ async function handleSignIn() {
   } catch (error) {
     console.error("Errore nella registrazione:", error);
   }
+  localStorage.setItem("utenteNickname", nickname.value);
 }
 </script>
 

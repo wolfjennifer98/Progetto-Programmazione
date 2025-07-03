@@ -17,8 +17,8 @@
         <img
           src="@/assets/logo.png"
           alt="Logo PixelPedia"
-          width="80"
-          height="80"
+          width="90"
+          height="90"
         />
         <span>PixelPedia</span>
       </router-link>
@@ -94,32 +94,49 @@
   </nav>
 
   <nav class="navbar bg-light fixed-top shadow-sm d-lg-none">
-    <div class="container d-flex justify-content-between align-items-center">
-      <button v-if="mostraFreccia" class="btn" @click="$router.back()">
-        <i class="bi bi-arrow-left fs-4"></i>
-      </button>
-      <div v-else style="width: 40px"></div>
+    <div
+      class="container d-flex justify-content-between align-items-center px-3"
+    >
+      <!-- Colonna sinistra: freccia oppure spazio vuoto -->
+      <div style="width: 40px">
+        <button
+          v-if="mostraFreccia"
+          class="btn p-0"
+          @click="$router.back()"
+          title="Torna indietro"
+        >
+          <i class="bi bi-arrow-left fs-4"></i>
+        </button>
+      </div>
 
-      <div class="flex-grow-1 text-center">
-        <router-link class="navbar-brand fw-bold m-0 text-dark" to="/home">
+      <!-- Colonna centrale: logo -->
+      <div class="text-center">
+        <router-link
+          class="navbar-brand fw-bold m-0 text-dark d-flex align-items-center gap-2"
+          to="/home"
+        >
           <img
             src="@/assets/logo.png"
             alt="Logo PixelPedia"
             width="50"
             height="50"
           />
-          PixelPedia
+          <span>PixelPedia</span>
         </router-link>
       </div>
 
-      <button
-        class="btn"
-        type="button"
-        data-bs-toggle="offcanvas"
-        data-bs-target="#mobileMenu"
-      >
-        <i class="bi bi-list fs-3"></i>
-      </button>
+      <!-- Colonna destra: hamburger -->
+      <div style="width: 40px" class="text-end">
+        <button
+          class="btn p-0"
+          type="button"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#mobileMenu"
+          title="Menu"
+        >
+          <i class="bi bi-list fs-3"></i>
+        </button>
+      </div>
     </div>
   </nav>
 
@@ -298,3 +315,8 @@ function logout() {
   router.push("/");
 }
 </script>
+<style scoped>
+.btn-back {
+  margin-left: 1rem;
+}
+</style>

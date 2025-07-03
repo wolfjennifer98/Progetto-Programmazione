@@ -4,7 +4,9 @@
     class="main-wrapper d-flex justify-content-center align-items-center min-vh-100 px-3"
   >
     <div class="container py-5">
-      <h2 class="text-center mb-4 margin-top:1.5rem">Profilo Utente</h2>
+      <h2 class="text-center mb-4" style="margin-top: 1.2rem">
+        Profilo Utente
+      </h2>
       <div class="row justify-content-center">
         <div class="col-12 col-md-8 col-lg-6">
           <div class="card p-4 shadow-sm">
@@ -99,12 +101,6 @@ import { ref, onMounted } from "vue";
 import { getutentebynickname } from "@/firebase/utenti.js";
 import { getPreferitibynickname } from "@/firebase/preferiti";
 import { getDatabase, ref as dbRef, update, remove } from "firebase/database";
-import {
-  getStorage,
-  ref as storageRef,
-  uploadBytes,
-  getDownloadURL,
-} from "firebase/storage";
 import { useRouter } from "vue-router";
 
 const nickname = ref("");
@@ -117,7 +113,6 @@ const immagine = ref("");
 const loading = ref(true);
 
 const db = getDatabase();
-const storage = getStorage();
 
 const numeroPreferiti = ref(0);
 
@@ -186,22 +181,6 @@ async function handleImageUpload(event) {
     alert("Utente non loggato");
     return;
   }
-
-  try {
-    const fileRef = storageRef(storage, `immagini-profilo/${utenteKey}`);
-    await uploadBytes(fileRef, file);
-
-    const downloadURL = await getDownloadURL(fileRef);
-    immagine.value = downloadURL;
-    await update(dbRef(db, `utenti/${utenteKey}`), {
-      immagine: downloadURL,
-    });
-
-    alert("Immagine aggiornata con successo!");
-  } catch (error) {
-    console.error("Errore nel caricamento immagine:", error);
-    alert("Errore durante il caricamento dell'immagine.");
-  }
 }
 
 function confermaLogout() {
@@ -247,7 +226,7 @@ async function confermaEliminaAccount() {
 
 <style scoped>
 .profilo-placeholder {
-  background-color: #333; /* o il colore che vuoi per lo sfondo */
+  background-color: #333;
 }
 
 .profilo-placeholder i {

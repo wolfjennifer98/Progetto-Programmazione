@@ -48,7 +48,7 @@ import {
 const props = defineProps({
   game: Object,
 });
-
+const emit = defineEmits(["rimuovi"]);
 const isPreferito = ref(false);
 
 onMounted(async () => {
@@ -71,11 +71,10 @@ async function togglePreferito() {
     if (!isPreferito.value) {
       await createPreferiti(nickname, props.game.title);
       isPreferito.value = true;
-      alert(`"${props.game.title}" aggiunto ai preferiti!`);
     } else {
       await removePreferiti(nickname, props.game.title);
       isPreferito.value = false;
-      alert(`"${props.game.title}" rimosso dai preferiti.`);
+      emit("rimuovi", props.game.title);
     }
   } catch (err) {
     console.error("Errore:", err);

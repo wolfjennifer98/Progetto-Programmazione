@@ -20,14 +20,7 @@
       </div>
       <div class="col-12 col-lg-7 text-white">
         <div class="d-flex align-items-center flex-wrap gap-2 mb-3">
-          <h1 class="fs-1 text-acqua m-0">{{ game.title }}</h1>
-          <button class="btn btn-outline-danger" @click="togglePreferito">
-            <i
-              :class="
-                isPreferito ? 'bi bi-heartbreak-fill' : 'bi bi-heart-fill'
-              "
-            ></i>
-          </button>
+          <h1 class="titolo-gioco text-acqua m-0">{{ game.title }}</h1>
         </div>
         <p>
           <strong class="text-acqua">Genere:</strong>
@@ -64,14 +57,36 @@
             :alt="`Voto ${game.voto}`"
             style="height: 50px"
           />
-          <p class="mt-2">
-            <strong class="text-acqua">Recensione:</strong>
-            {{ game.recensione }}
-          </p>
+          <div class="mt-4">
+            <img
+              :src="votoImagePath"
+              :alt="`Voto ${game.voto}`"
+              style="height: 50px"
+            />
+            <div class="mt-3">
+              <strong class="text-acqua">Recensione:</strong>
+              <div v-if="Array.isArray(game.recensione)" class="mt-2">
+                <div
+                  v-for="(voce, index) in game.recensione"
+                  :key="index"
+                  class="mb-2"
+                >
+                  <strong>{{ voce.voce }}:</strong>
+                  <span>{{ voce.voto }}</span>
+                  <em v-if="voce.nota" class="text-acqua ms-2"
+                    >({{ voce.nota }})</em
+                  >
+                </div>
+              </div>
+              <p v-else>{{ game.recensione }}</p>
+            </div>
+          </div>
         </div>
 
         <p class="overflow-hidden">
-          <strong class="text-acqua">Hai bisogno di aiuto?</strong>
+          <strong class="text-acqua" style="font-size: 1.2rem"
+            >Non riesci ad andare avanti nel gioco? Eccoti un aiutino</strong
+          >
           <a :href="game.guide" target="_blank" class="text-white">
             {{ game.guide }}
           </a>
@@ -143,11 +158,9 @@ async function togglePreferito() {
     if (!isPreferito.value) {
       await createPreferiti(nickname, game.value.title);
       isPreferito.value = true;
-      alert("Gioco aggiunto correttamente ai preferiti!");
     } else {
       await removePreferiti(nickname, game.value.title);
       isPreferito.value = false;
-      alert("Gioco rimosso dai preferiti!");
     }
   } catch (err) {
     console.error("Errore:", err);
@@ -157,6 +170,14 @@ async function togglePreferito() {
 </script>
 
 <style scoped>
+.titolo-gioco {
+  font-size: 5rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  word-break: break-word;
+  text-align: center;
+}
 .text-acqua {
   color: #00ffcc;
 }
@@ -174,17 +195,21 @@ async function togglePreferito() {
 }
 
 @media (max-width: 768px) {
-  h1 {
-    font-size: 1.2rem;
+  .titolo-gioco {
+    font-size: 2rem;
+    text-align: center;
+  }
+  img {
+    max-height: 200px;
   }
 
   p {
-    font-size: 0.95rem;
+    font-size: 1.2rem;
     word-break: break-word;
   }
 
   .btn {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     padding: 0.45rem 1rem;
   }
 

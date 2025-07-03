@@ -11,44 +11,53 @@
         v-for="game in filteredGames"
         :key="game.id"
       >
-        <router-link
-          :to="`/game/${game.id}`"
-          class="text-decoration-none text-dark"
-        >
-          <GameCard :game="game" />
-        </router-link>
+        <GameCard :game="game" @rimuovi="rimuoviPreferito" />
       </div>
     </div>
-    <div v-else class="text-center text-muted mt-5">
+
+    <div v-else class="text-center mt-5">
       <p>Non hai ancora aggiunto nessun gioco ai preferiti.</p>
     </div>
   </main>
 </template>
 
 <script setup>
-import { ref, onMounted, computed, watch } from "vue";
+import { ref, onMounted, watch } from "vue";
 import { useRoute } from "vue-router";
 import Navbar from "@/components/Navbar.vue";
 import GameCard from "@/components/GameCard.vue";
 import { getPreferitibynickname } from "@/firebase/preferiti.js";
 
 const route = useRoute();
-
 const allGames = ref([]);
 const giochiPreferiti = ref([]);
+const filteredGames = ref([]);
 const utente = localStorage.getItem("utenteNickname");
 const searchTerm = ref(route.query.ricerca || "");
 const selectedGenres = ref(
   route.query.generi ? route.query.generi.split(",") : []
 );
 
-watch(
-  () => route.query,
-  (newQuery) => {
-    searchTerm.value = newQuery.ricerca || "";
-    selectedGenres.value = newQuery.generi ? newQuery.generi.split(",") : [];
-  }
-);
+function aggiornaFilteredGames() {
+  filteredGames.value = giochiPreferiti.value.filter((game) => {
+    const matchesTitle = game.title
+      .toLowerCase()
+      .includes(searchTerm.value.toLowerCase());
+
+    const matchesGenre =
+      selectedGenres.value.length === 0 ||
+      selectedGenres.value.some((genre) => game.genres.includes(genre));
+
+    return matchesTitle && matchesGenre;
+  });
+}
+
+function rimuoviPreferito(titoloGioco) {
+  giochiPreferiti.value = giochiPreferiti.value.filter(
+    (g) => g.title !== titoloGioco
+  );
+  aggiornaFilteredGames();
+}
 
 onMounted(async () => {
   if (!utente) {
@@ -65,22 +74,21 @@ onMounted(async () => {
     giochiPreferiti.value = allGames.value.filter((game) =>
       preferiti.includes(game.title)
     );
+
+    aggiornaFilteredGames();
   } catch (error) {
     console.error("Errore nel caricamento preferiti:", error);
   }
 });
 
-const filteredGames = computed(() => {
-  return giochiPreferiti.value.filter((game) => {
-    const matchesTitle = game.title
-      .toLowerCase()
-      .includes(searchTerm.value.toLowerCase());
-    const matchesGenre =
-      selectedGenres.value.length === 0 ||
-      selectedGenres.value.some((genre) => game.genres.includes(genre));
-    return matchesTitle && matchesGenre;
-  });
-});
+watch(
+  () => route.query,
+  (newQuery) => {
+    searchTerm.value = newQuery.ricerca || "";
+    selectedGenres.value = newQuery.generi ? newQuery.generi.split(",") : [];
+    aggiornaFilteredGames();
+  }
+);
 </script>
 
 <style scoped>
