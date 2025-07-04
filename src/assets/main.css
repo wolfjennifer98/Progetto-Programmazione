@@ -22,6 +22,9 @@ a,
     transition: 0.3s;
     padding: 3px;
 }
+.text-acqua {
+  color: #00ffcc;
+}
 .card {
     background-color: var(--color-background-soft);
     border: 2px solid var(--color-border);

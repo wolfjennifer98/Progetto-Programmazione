@@ -106,7 +106,4 @@ watch(password, () => {
 input.form-control {
   font-size: 1.1rem;
 }
-.text-acqua {
-  color: #00ffcc;
-}
 </style>

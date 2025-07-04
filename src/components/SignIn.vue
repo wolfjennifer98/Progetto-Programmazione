@@ -145,8 +145,3 @@ export default {
   name: "SignInPage",
 };
 </script>
-<style scoped>
-.text-acqua {
-  color: #00ffcc;
-}
-</style>
