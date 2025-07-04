@@ -315,8 +315,3 @@ function logout() {
   router.push("/");
 }
 </script>
-<style scoped>
-.btn-back {
-  margin-left: 1rem;
-}
-</style>

@@ -170,20 +170,9 @@ async function togglePreferito() {
   word-break: break-word;
   text-align: center;
 }
+
 .text-acqua {
   color: #00ffcc;
-}
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.5s;
-}
-.fade-enter-from,
-.fade-leave-to {
-  opacity: 0;
-}
-
-.content-wrapper {
-  padding-top: 80px;
 }
 
 @media (max-width: 768px) {
@@ -191,6 +180,7 @@ async function togglePreferito() {
     font-size: 2rem;
     text-align: center;
   }
+
   img {
     max-height: 200px;
   }
@@ -203,10 +193,6 @@ async function togglePreferito() {
   .btn {
     font-size: 1.2rem;
     padding: 0.45rem 1rem;
-  }
-
-  .navbar-brand img {
-    max-height: 30px;
   }
 }
 </style>
