@@ -76,5 +76,3 @@ const filteredGames = computed(() => {
   });
 });
 </script>
-
-<style></style>

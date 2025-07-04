@@ -90,10 +90,3 @@ watch(
   }
 );
 </script>
-
-<style scoped>
-.active-link {
-  font-weight: bold;
-  text-decoration: underline;
-}
-</style>

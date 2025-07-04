@@ -54,7 +54,8 @@ a,
     color: #222 !important;
     border: 2px solid #5ebd7c;
     border-radius: 0.75rem;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); }
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
 @media (hover: hover) {
     a:hover {
         background-color: rgba(0, 255, 204, 0.1);
