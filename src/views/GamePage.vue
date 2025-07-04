@@ -50,36 +50,28 @@
             </p>
           </transition>
         </div>
-
         <div class="mt-4">
           <img
             :src="votoImagePath"
             :alt="`Voto ${game.voto}`"
             style="height: 50px"
           />
-          <div class="mt-4">
-            <img
-              :src="votoImagePath"
-              :alt="`Voto ${game.voto}`"
-              style="height: 50px"
-            />
-            <div class="mt-3">
-              <strong class="text-acqua">Recensione:</strong>
-              <div v-if="Array.isArray(game.recensione)" class="mt-2">
-                <div
-                  v-for="(voce, index) in game.recensione"
-                  :key="index"
-                  class="mb-2"
+          <div class="mt-3">
+            <strong class="text-acqua">Recensione:</strong>
+            <div v-if="Array.isArray(game.recensione)" class="mt-2">
+              <div
+                v-for="(voce, index) in game.recensione"
+                :key="index"
+                class="mb-2"
+              >
+                <strong>{{ voce.voce }}:</strong>
+                <span>{{ voce.voto }}</span>
+                <em v-if="voce.nota" class="text-acqua ms-2"
+                  >({{ voce.nota }})</em
                 >
-                  <strong>{{ voce.voce }}:</strong>
-                  <span>{{ voce.voto }}</span>
-                  <em v-if="voce.nota" class="text-acqua ms-2"
-                    >({{ voce.nota }})</em
-                  >
-                </div>
               </div>
-              <p v-else>{{ game.recensione }}</p>
             </div>
+            <p v-else>{{ game.recensione }}</p>
           </div>
         </div>
 
