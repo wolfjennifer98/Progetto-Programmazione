@@ -47,7 +47,10 @@
         --color-heading: #00ffcc;
         --color-text: #f1f1f1;
     }
-}
+} 
+
+
+/* Responsiveness */
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .container {
         width: 100%;
@@ -71,6 +74,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
+/* Impostazioni globali sul body*/
 body {
     min-height: 100vh;
     color: var(--color-text);
@@ -88,3 +92,5 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+

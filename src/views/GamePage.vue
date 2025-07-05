@@ -1,7 +1,9 @@
 <template>
   <Navbar :showBack="true" />
   <div class="container mt-5 pt-3">
+    <!--Contenuto mostrato solo se sono stati caricati i dati di gioco-->
     <div v-if="game && game.genres" class="row gx-5 gy-4">
+      <!-- Immagine e trailer -->
       <div class="col-12 col-lg-5 text-center">
         <img
           :src="game.image"
@@ -18,6 +20,8 @@
           <span class="fw-bold small">Guarda il trailer</span>
         </a>
       </div>
+
+      <!-- Dettagli gioco -->
       <div class="col-12 col-lg-7 text-white">
         <div class="d-flex align-items-center flex-wrap gap-2 mb-3">
           <h1 class="titolo-gioco text-acqua m-0">{{ game.title }}</h1>
@@ -37,6 +41,7 @@
         <p><strong class="text-acqua">Descrizione (No spoiler):</strong></p>
         <p style="white-space: pre-wrap">{{ game.description }}</p>
 
+        <!-- Pulsante per mostrare/nascondere spoiler -->
         <div class="mt-3">
           <button
             class="btn btn-warning"
@@ -51,38 +56,33 @@
           </transition>
         </div>
 
+        <!-- Voto e recensione -->
         <div class="mt-4">
           <img
             :src="votoImagePath"
             :alt="`Voto ${game.voto}`"
             style="height: 50px"
           />
-          <div class="mt-4">
-            <img
-              :src="votoImagePath"
-              :alt="`Voto ${game.voto}`"
-              style="height: 50px"
-            />
-            <div class="mt-3">
-              <strong class="text-acqua">Recensione:</strong>
-              <div v-if="Array.isArray(game.recensione)" class="mt-2">
-                <div
-                  v-for="(voce, index) in game.recensione"
-                  :key="index"
-                  class="mb-2"
+          <div class="mt-3">
+            <strong class="text-acqua">Recensione:</strong>
+            <div v-if="Array.isArray(game.recensione)" class="mt-2">
+              <div
+                v-for="(voce, index) in game.recensione"
+                :key="index"
+                class="mb-2"
+              >
+                <strong>{{ voce.voce }}:</strong>
+                <span>{{ voce.voto }}</span>
+                <em v-if="voce.nota" class="text-acqua ms-2"
+                  >({{ voce.nota }})</em
                 >
-                  <strong>{{ voce.voce }}:</strong>
-                  <span>{{ voce.voto }}</span>
-                  <em v-if="voce.nota" class="text-acqua ms-2"
-                    >({{ voce.nota }})</em
-                  >
-                </div>
               </div>
-              <p v-else>{{ game.recensione }}</p>
             </div>
+            <p v-else>{{ game.recensione }}</p>
           </div>
         </div>
 
+        <!-- Link alla guida -->
         <p class="overflow-hidden">
           <strong class="text-acqua" style="font-size: 1.2rem"
             >Non riesci ad andare avanti nel gioco? Eccoti un aiutino</strong
@@ -92,6 +92,7 @@
           </a>
         </p>
 
+        <!-- Aggiunta/rimozione preferiti -->
         <button class="btn btn-outline-danger mt-3" @click="togglePreferito">
           <i
             :class="
@@ -105,6 +106,7 @@
       </div>
     </div>
 
+    <!-- Messaggio di caricamento o errore -->
     <div v-else class="text-center mt-5 text-white">
       <p>Caricamento in corso o gioco non trovato.</p>
     </div>
@@ -178,27 +180,13 @@ async function togglePreferito() {
   word-break: break-word;
   text-align: center;
 }
-.text-acqua {
-  color: #00ffcc;
-}
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.5s;
-}
-.fade-enter-from,
-.fade-leave-to {
-  opacity: 0;
-}
-
-.content-wrapper {
-  padding-top: 80px;
-}
 
 @media (max-width: 768px) {
   .titolo-gioco {
     font-size: 2rem;
     text-align: center;
   }
+
   img {
     max-height: 200px;
   }
@@ -211,10 +199,6 @@ async function togglePreferito() {
   .btn {
     font-size: 1.2rem;
     padding: 0.45rem 1rem;
-  }
-
-  .navbar-brand img {
-    max-height: 30px;
   }
 }
 </style>

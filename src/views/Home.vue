@@ -7,6 +7,7 @@
       <h4>😢 Non abbiamo trovato nulla con le caratteristiche che cerchi.</h4>
     </div>
 
+    <!-- Carosello -->
     <div class="row g-4" v-else>
       <div
         class="col-12 col-sm-6 col-md-4 col-lg-3"
@@ -25,7 +26,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from "vue";
+import { ref, computed, onMounted, watch } from "vue";
 import { useRoute } from "vue-router";
 import GameCard from "@/components/GameCard.vue";
 import Navbar from "@/components/Navbar.vue";
@@ -37,7 +38,7 @@ const searchTerm = ref(route.query.ricerca || "");
 const selectedGenres = ref(
   route.query.generi ? route.query.generi.split(",") : []
 );
-import { watch } from "vue";
+
 watch(
   () => route.query,
   (newQuery) => {
@@ -76,5 +77,3 @@ const filteredGames = computed(() => {
   });
 });
 </script>
-
-<style></style>

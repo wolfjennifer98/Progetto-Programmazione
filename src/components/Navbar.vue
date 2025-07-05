@@ -287,6 +287,18 @@ function handleFocusOut() {
   }, 100);
 }
 
+function chiudiMenuMobile() {
+  const offcanvasEl = document.getElementById("mobileMenu");
+  if (offcanvasEl && offcanvasEl.classList.contains("show")) {
+    const offcanvas =
+      Offcanvas.getInstance(offcanvasEl) || new Offcanvas(offcanvasEl);
+    offcanvas.hide();
+    offcanvasEl.classList.remove("custom-blur");
+    document.body.style.backdropFilter = "none";
+    document.body.classList.remove("offcanvas-backdrop");
+  }
+}
+
 function handleSearch() {
   const currentPath = router.currentRoute.value.path;
   router.push({
@@ -296,27 +308,16 @@ function handleSearch() {
       generi: selectedGenres.value.join(","),
     },
   });
+  chiudiMenuMobile();
 }
 
 function chiudiMenuENaviga(percorso) {
-  const offcanvasEl = document.getElementById("mobileMenu");
-  if (offcanvasEl) {
-    const offcanvas =
-      Offcanvas.getInstance(offcanvasEl) || new Offcanvas(offcanvasEl);
-    offcanvas.hide();
-    offcanvasEl.classList.remove("custom-blur");
-    document.body.style.backdropFilter = "none";
-    document.body.classList.remove("offcanvas-backdrop");
-  }
+  chiudiMenuMobile();
   setTimeout(() => router.push(percorso), 200);
 }
+
 function logout() {
   localStorage.removeItem("utenteNickname");
   router.push("/");
 }
 </script>
-<style scoped>
-.btn-back {
-  margin-left: 1rem;
-}
-</style>

@@ -1,442 +1,712 @@
 [
-{
-     "id": "1",
-    "title": "OMORI",
-    "year": 2020,
-    "developer": "Omocat",
-    "platforms": [
-        "PC",
-        "Nintendo Switch",
-        "PlayStation 4",
-        "Xbox One"
-    ],
-    "genres": [
-        "Role-playing",
-        "Avventura",
-        "Horror Psicologico"
-    ],
-    "description": "OMORI è un viaggio psicologico tra sogno e incubo, dove ogni scelta può portarti più vicino alla verità... o può nasconderla per sempre. Nella storia interpreterai Omori, un ragazzo silenzioso che si risveglia in un mondo onirico, popolato da amici adorabili, colori pastello e paesaggi surreali. Ma qualcosa non va: un'oscurità striscia sotto la superficie, pronta ad emergere. Attraverso combattimenti a turni, puzzle ambientali e una narrazione intensa, esplorerai sia il mondo dei sogni che quello reale, scavando nei ricordi repressi del protagonista. Cos'è successo davvero? Cosa stai cercando di dimenticare? Omori non è solo un gioco: è un'esperienza emotiva profonda, che ti farà ridere, piangere e riflettere. Con giusta una nota anche un pò horror. Preparati a guardarti dentro. Ma ricorda: quando chiudi gli occhi, i mostri non spariscono.",
-"spoiler": "Dietro l'estetica dolce e i colori pastello, OMORI nasconde un trauma profondo, una verità che lentamente si insinua nella mente del giocatore. Non sei solo in un mondo onirico: sei intrappolato nei ricordi di Sunny, un ragazzo schiacciato dal senso di colpa per la morte della sorella, Mari.La versione silenziosa e distaccata di te stesso Omori è il tuo meccanismo di difesa. Il bianco e nero del suo mondo rappresenta l'apatia emotiva, il rifiuto della realtà. Il “Mondo a testa in giù” è una fuga dalla verità, dove gli amici d'infanzia vivono ancora, ma deformati dal tempo e dalla mente. Con il passare delle ore, il confine tra sogno e realtà si spezza: Basil, l'amico che sa la verità, diventa sempre più instabile, mentre la figura dell'”Ombra” la manifestazione dell'ansia e del senso di colpa ti perseguita ovunque. Scoprirai che non è stato un incidente: in un litigio improvviso, Sunny ha spinto Mari giù dalle scale, causandone la morte. In preda al panico, insieme a Basil ha inscenato un suicidio. Da quel giorno, il trauma ha divorato la coscienza di entrambi. La vera battaglia finale non è contro un boss, ma contro te stesso. Contro Omori. L'unico modo per guarire è accettare il dolore, uscire dal sogno e confessare. Ma il gioco ti lascia scegliere: affrontare la verità… o restare per sempre nel vuoto dell'oblio. OMORI non è solo un viaggio mentale, è una riflessione sul lutto, il rimorso, e la possibilità del perdono. Un pugno nello stomaco travestito da fiaba.",
-    "voto": "8",
-"recensione": [
-    {"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Arte & Musica","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Combattimento","voto": "⭐⭐⭐⭐☆", "nota": "alcuni lo trovano troppo semplice"},
-    {"voce":"Profondità psicologica","voto": "⭐⭐⭐⭐⭐", "nota": "un'esperienza unica nel suo genere"},
-    {"voce":"Rigiocabilità","voto": "⭐⭐⭐⭐☆", "nota":"diversi finali e segreti da scoprire"}],
-    "image": "/asset/omori.jpg",
-    "trailer": "https://www.youtube.com/watch?v=5jAYHIfEC0E&ab_channel=OmoriITA",
-    "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2948653114"
-},
-{
-    "id": "2",
-    "title": "Stardew Valley",
-    "year": 2016,
-    "developer": "ConcernedApe",
-    "platforms": [
-        "PC",
-        "Nintendo Switch",
-        "PlayStation 4",
-        "Mobile"
-    ],
-    "genres": [
-        "Simulazione",
-        "Role-playing"
-    ],
-    "description": "Stanco della solita frenesia della città e del peso della routine, erediti la vecchia fattoria di tuo nonno neòòa tranquilla Stardew Valley. All'inzio c'è solo terra incolta e qualche strumento arrugginito, ma con impegno, pazienza e un pizzico di magia, puoi trasformarla in qualcosa di speciale. Stardew Valley è molto più di un gestionale agricolo: è un mondo vivo, pieno di storie, legami e misteri. Coltiva ortaggi, pesca nei fiumi, esplora le miniere infestate, partecipa a festival locali e stringi relazioni profonde con gli abitanti del villaggio. Dietro la semplicità della vita rurale si nasconde un senso di appartenenza e scoperta che cresce giorno dopo giorno. E se lo vorrai, potrai persino innamorarti, costruire una famiglia... o vivere da eremita coltivando zucche giganti. In Stardew Valley, ogni scelta conta e ogni stagione porta nuove avventure. Scopri i segreti della natura, riscopri il valore della comunità e trova la tua strada in questo angolo di paradiso. La vita semplice non è mai stata così affascinante.",
-"spoiler": "All'apparenza è solo una tranquilla simulazione agricola: erediti la fattoria del nonno, lasci alle spalle il grigiore della vita da impiegato e ti trasferisci a Pelican Town per coltivare la terra. Ma Stardew Valley è molto più di questo.\n\nSotto la superficie bucolica, il gioco nasconde temi maturi e una rete di storie personali complesse. Ogni abitante del villaggio ha un passato, un dolore, un segreto. C’è Shane, che lotta contro l’alcolismo e la depressione; Abigail, affascinata dall’occulto e in conflitto con i genitori; Sebastian, solitario e frustrato dalla vita di provincia. Le loro storie si svelano lentamente, attraverso eventi speciali e relazioni crescenti.\n\nDietro la fattoria, scoprirai anche un centro comunitario abbandonato, abitato da spiriti chiamati Junimos. Potrai restaurarlo raccogliendo risorse… oppure scegliere di allearti con il colosso aziendale JojaMart, sacrificando l’anima della città in nome dell’efficienza. Sì, anche Stardew Valley parla di capitalismo e scelta morale.\n\nMa non è tutto: puoi esplorare miniere infestate da mostri, scavare nel deserto alla ricerca di reliquie antiche, e addirittura comunicare con il fantasma del nonno, che giudicherà la tua vita alla fine del secondo anno. E se esplori a fondo, scoprirai l’enigmatico cultista Krobus, abitante delle fogne, o la stanza segreta del Mago, legata a misteriosi rituali dimenticati.\n\nAnche l’amore è più profondo di quanto sembri: puoi sposare chiunque tra 12 personaggi, indipendentemente dal genere. E se il matrimonio non funziona? Puoi divorziare… o chiedere alla Strega Oscura di cancellare la memoria del tuo ex coniuge.",
-    "voto": "8",
-"recensione": [
-    {"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Arte & Musica","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Gameplay e varietà","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Profondità dei personaggi","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Sistema di progressione e crafting","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Contenuti segreti e rigiocabilità","voto": "⭐⭐⭐⭐⭐" }],
-    "image": "/asset/stardewvalley.jpg",
-    "trailer": "https://www.youtube.com/watch?v=ot7uXNQskhs&ab_channel=ConcernedApe",
-    "guide": "https://it.stardewvalleywiki.com/Stardew_Valley_Wiki"
-},
-{
-    "id": "3",
-    "title": "Undertale",
-    "year": 2015,
-    "developer": "Toby Fox",
-    "platforms": [
-        "PC",
-        "Nintendo Switch",
-        "PlayStation 4",
-        "Xbox One"
-    ],
-    "genres": [
-        "Role-playing",
-        "Indie",
-        "Fantasy"
-    ],
-    "description": "Sei un bambino caduto nel Mondo Sotterraneo, un regno separato da quello umano e abitato da mostri dimenticati. Ma questo non è il solito RPG. Qui puoi scegliere se combattere... o stringere amicizie. Ogni incontro è un'occasione per capire, ascoltare, perdonare. O distruggere. Le tue azioni determinano il destino di chi incontri e ti porteranno verso finali completamente diversi. Co un grafica retrò isiprata ai giochi in 8-bit e una colonna sonora iconica Undertale riesce ad essere al tempo stesso comico, commovente e inquietante. Dietro il sio aspetto semplice si nasconde un'esperienza profonda, intelligente e piena di sorprese. Ti pentirai? Riderai? Ti affezionerai a chi non pensavi? In Undertale, il vero nemico... potresti essere tu!",
-"spoiler": "In Undertale, non sei solo un essere umano caduto nel mondo dei mostri: sei Frisk, e ogni tua azione avrà conseguenze profonde. Ma il vero protagonista non è il combattimento... è la tua coscienza.\n\nAll’inizio sembra un classico RPG: dungeon, nemici, livelli. Ma subito qualcosa cambia. Puoi scegliere di non uccidere nessuno. Puoi parlare, perdonare, abbracciare. Ogni mostro ha una personalità, una storia, una ragione per combattere. Il gioco ti invita a pensare: vale davvero la pena colpire?\n\nMa se lo farai… il gioco non dimenticherà. Undertale ha tre percorsi principali:\n\nIl Percorso Pacifista, dove non uccidi nessuno e sveli la verità dietro il Regno dei Mostri, ottenendo un finale commovente e pieno di speranza.\n\nIl Percorso Neutrale, dove potresti uccidere per errore o convenienza, ottenendo uno dei tanti finali “grigi”.\n\nIl Percorso Genocida, dove scegli consapevolmente di eliminare ogni creatura vivente, affrontando boss strazianti come Undyne the Undying e Sans, in uno dei combattimenti più difficili e memorabili di sempre.\n\nMa Undertale va oltre: ricorda quello che fai. Anche se riavvii la partita, il gioco può accorgersene. Cancella i salvataggi quanto vuoi: l’universo avrà comunque le cicatrici delle tue scelte.\n\nCon un tono che alterna umorismo, tenerezza, tristezza e inquietudine, Undertale sfonda la quarta parete, interroga il giocatore, e ti costringe a chiederti cosa significa davvero \"giocare bene\".",
-    "voto": "9",
-"recensione": [{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Arte & Musica","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Gameplay e Originalità","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Personaggi e scrittura","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Impatto emotivo e rigiocabilità","voto": "⭐⭐⭐⭐⭐"}],
-    "image": "/asset/undertale.jpg",
-    "trailer": "https://www.youtube.com/watch?v=1Hojv0m3TqA&ab_channel=FwugRadiation",
-    "guide": "https://www.ign.com/wikis/undertale/Walkthrough"
-},
-{
-    "id": "4",
-    "title": "OneShot",
-    "year": 2014,
-    "developer": "Little Cat Feet",
-    "platforms": [
-        "PC"
-    ],
-    "genres": [
-        "Avventura",
-        "Puzzle",
-        "Rompicapo"
-    ],
-    "description": "Il destino di un mondo dimenticato è nelle mani di Niko, un bambino dagli occhi felini e dallo sguardo malinconico. Ma niko non è l'unico a cui quel moondo parla... perché parla anche con te! Esplora una terra sull'orlo del collasso, dove la luce sta svanendo e l'unica speranza è un'antica profezia. Usa ingegno, empatia e delicatezza per aiutare Niko a riportare la luce al faro sacro. Ma attento: ogni tua decisione conta e OneShot sa che stai giocando! Con uno stile pixel art delicato e una narrazione metanarrativa emozionante, OneShot ti trascina in un'avventura intima, dove la narrazione tra giocatore e personaggio è al cento dell'esperienza. Hai solo un 'colpo'. Ma cosa succede... se non vuoi usarlo?",
-"spoiler": "In OneShot non sei solo il protagonista. Tu sei il Dio.\nLetteralmente.\n\nAccompagni Niko, un bambino dai grandi occhi felini, caduto in un mondo decadente, a metà tra sogno e tecnologia perduta. Il suo compito? Riaccendere il Sole—una lampadina gigante da portare in cima a una torre. Ma Niko non è solo un avatar: è un essere vivente, consapevole, che ti parla. Non al tuo personaggio. A te, usando il tuo vero nome di sistema operativo. Il gioco rompe la quarta parete, chiama il giocatore per nome, legge file sul tuo PC, chiude e riapre finestre da solo. Ti guarda. Ti conosce.\n\nNel corso del viaggio, visiti tre regioni (le Rovine, il Centro, e la Torre), incontrando personaggi decaduti e macchine dimenticate, tutti legati da una nostalgia malinconica e da un unico scopo: aiutarti a riportare la luce. Ma il mondo è destinato a morire, e la tua missione si trasforma in una scelta impossibile: salvare il mondo… o salvare Niko.\n\nNel finale originale, puoi riaccendere il Sole e lasciare Niko intrappolato lì per sempre. Ma in OneShot: Solstice (l’epilogo sbloccabile), scopri la verità: l’intero mondo è una simulazione, creata per dare una speranza fittizia. Solo aggirando le regole del gioco, forzando persino i suoi file, puoi spezzare il ciclo, distruggere la simulazione e riportare Niko a casa. Ma così facendo, il mondo e i suoi abitanti cesseranno di esistere.\nOgni azione ha un prezzo. E quando Niko se ne va… non potrà mai più tornare.\n\nIl gioco si disinstalla da solo. E tu rimani solo, con una finestra chiusa, e la sensazione di aver fatto la cosa giusta… o di aver perso qualcosa per sempre.\n",
-    "voto": "7",
-    "recensione": [{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Arte & Musica","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Gameplay e Puzzle design","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Interazione con il giocatore","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Profondità emotiva","voto": "⭐⭐⭐⭐⭐"}],
-    "image": "/asset/oneshot.webp",
-    "trailer": "https://www.youtube.com/watch?v=8PaAA0GkSv4&ab_channel=NintendoofAmerica",
-    "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=816687072"
-},
-{
-    "id": "5",
-    "title": "Night Reverie",
-    "year": 2021,
-    "developer": "Somber Pixel",
-    "platforms": [
-        "PC",
-        "Nintendo Switch"
-    ],
-    "genres": [
-        "Avventura",
-        "Indie",
-        "Rompicapo"
-    ],
-    "description": "In Night Reverie, il mondo dei sogni si intreccia con la realtà in un'avventura che sfida le leggi della logica e della fisica. Segui le orme di un giovane protagonista Matt che, dopo un incidente misterioso, si ritrova intrappolato in un universo onirico pieno di enigmi e pericoli. Esplora paesaggi surreali, risolvi rompicapi intricati e incontra personaggi come mobili parlanti, animali enigmatici e stanze bizzarre che ti guideranno o ostacoleranno nel tuo cammino. Con una grafica evocativa e una colonna sonora ipnotica, Night Reverie ti invita a riflettere su temi come la memoria, il rimpianto,la ricerca di identità e l'elaborazione delle emozioni anche in infanzia. Ma attenzione: in questo mondo, nulla è come sembra e ogni scelta può avere conseguenze impreviste. Ogni sogno ha un significato, ma sei pronto a scoprire cosa si nasconde nel tuo? ",
-"spoiler": "In Night Reverie, sei Matt, un bambino che si sveglia in una versione distorta della sua casa: una realtà sospesa tra sogno e incubo, dove oggetti quotidiani assumono tratti magici e familiari misteriosi sembrano non essere più loro stessi. Il tuo obiettivo è chiaro: trovare tua sorella Sophie, scomparsa senza lasciare traccia.\n\nMa più esplori questa versione alternativa della tua casa, più ti rendi conto che qualcosa non torna. Gli ambienti si fanno via via più astratti, i personaggi più inquietanti, e dietro ogni enigma si nasconde un frammento della verità. Il gioco è scandito da puzzle e piccoli dialoghi che parlano, senza dire troppo, di perdita, trauma e accettazione.\n\nAlla fine, scopri che tutto ciò che hai vissuto è un’elaborazione onirica del dolore: Sophie è morta, e Matt è bloccato in un ciclo mentale creato per proteggerlo dalla verità. Ogni stanza, ogni personaggio simbolico, ogni meccanica del sogno rappresenta fasi del lutto e della memoria. Il finale ti lascia con una scelta: restare nel sogno con l’illusione della presenza di Sophie, oppure svegliarti e affrontare la realtà da solo.\n\nNon ci sono combattimenti, né finali multipli spettacolari. Solo una storia personale, raccontata con delicatezza, dove l’immaginazione di un bambino diventa un rifugio… e allo stesso tempo una prigione.\n",
-    "voto": "5",
-    "recensione":[{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Arte & Musica","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Gameplay e Puzzle design","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Profondità emotiva","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Originalità e simbolismo","voto": "⭐⭐⭐⭐☆"}] ,
-    "image": "/asset/nightreverie.jpg",
-    "trailer": "https://www.youtube.com/watch?v=McDr0XVOsOA&ab_channel=ID%40Xbox",
-    "guide": "https://www.chaptercheats.com/cheat/pc/482243/night-reverie/video-walkthrough/330847"
-},
-{
-    "id": "6",
-    "title": "Final Fantasy IV",
-    "year": 1991,
-    "developer": "Square Enix",
-    "platforms": [
-        "PC",
-        "Super Nintendo",
-        "Mobile",
-        "PlayStationPortable",
-        "Gameboy Advance"
-    ],
-    "genres": [
-        "Role-playing",
-        "Avventura",
-        "Fantasy"
-    ],
-    "description": "In un mondo in bilico tra luce e oscurità, Final Fantasy IV ti mette nei panni di Cecil, un cavaliere oscuro tormentato dal suo passato in cerca di redenzione. Quando l'Impero di Baron inizia a conquistare i Cristalli elementali, Cecil e i suoi compagni dovranno affrontare tradimenti, battaglie epiche e verità nascoste che cambieranno per sempre il loro desitno. Tra i primi JRPG a introdurre una narrazione drammatica e personaggi complessi, con un sistema di combattimento Active Time Battle ricoluzionario per l'epoca. Tra lune gemelle, evocazioni leggendarie e momenti toccanti, Final Fantsay IV è un viaggio che definisce il genere. Non è solo una quest, ma una storia di scarificio, amicizia e ....salvezza.",
-"spoiler": "All'inizio sei Cecil, cavaliere oscuro al servizio del Regno di Baron, tormentato dai dubbi su ciò che sta facendo in nome della patria. Dopo aver commesso atrocità su ordine del re, inizia un percorso che non è solo un viaggio fisico, ma una redenzione morale. Quando il potere e la fedeltà vengono messi in discussione, nasce il conflitto interiore.\nDurante il viaggio, Cecil abbandona l’oscurità e rinasce come Paladino, in una delle sequenze più iconiche della saga. Ma la posta in gioco cresce: i cristalli del mondo vengono sottratti uno a uno, e il nemico si rivela essere Golbez, un potente mago legato al protagonista da un filo di sangue. Sì, Golbez è in realtà suo fratello, manipolato da un’entità aliena di nome Zemus, proveniente dalla Luna.\nLa storia si espande oltre i confini del mondo, portandoti letteralmente sulla Luna, dove la tecnologia e la magia si intrecciano. Il gioco culmina in un sacrificio collettivo: diversi personaggi si immolano lungo il percorso, in momenti struggenti e memorabili. Ma non tutto è perduto: l’amicizia, l’onore e l’amore portano alla salvezza.\nAlla fine, Cecil diventa re, Rosa sua regina, e il mondo ha una nuova speranza. Ma le cicatrici del passato restano, scolpite nel cuore dei sopravvissuti.\n",
-    "voto": "10",
-    "recensione":[{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Colonna sonora","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Gameplay & Sistema di battaglia","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Personaggi e sviluppo","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Grafica (contestualizzata all’epoca)","voto": "⭐⭐⭐⭐☆"}],
-    "image": "/asset/finalfantasy4.jpg",
-    "trailer": "https://www.youtube.com/watch?v=8mA4SU17Hfg&ab_channel=MMOGAcom",
-    "guide": "https://finalfantasy.fandom.com/it/wiki/Final_Fantasy_IV/Soluzione"
-},
-{
-    "id": "7",
-    "title": "Misao",
-    "year": 2011,
-    "developer": "Sen",
-    "platforms": [
-        "PC"
-    ],
-    "genres": [
-        "Horror Psicologico",
-        "Avventura",
-        "Indie",
-        "Rompicapo",
-        "Single-player"
-    ],
-    "description": "Tre mesi fa, Misao è scomparsa. Ora, qualcosa di oscuro infesta la scuola. Misao è un horror psicologico in pixel art, ambientato in un liceo giapponese intrappolato tra realtà e maledizione. Quando uno strano terremoto scuote l'edificio, tu - uno studente qualunque- vieni catapultato in una dimensione distorta dove spiriti vendicativi, visioni sanguinose e segreti sepolti emergono dal passato. Attraverso indizi, enigmi e scelte morali, dovrai scoprire cosa è successo a Misao...  e se sei davvero pronto ad affrontare la verità. Ogni azione ha conseguenze e non tutti meritano il perdono. Chi era davvero Misao? E cosa ha scatenato la sua ira? In questo gioco, non è la morte la vera punizione.",
-"spoiler": "All'inizio tutto sembra ruotare intorno a una semplice leggenda urbana: Misao, una studentessa scomparsa mesi prima, è forse coinvolta in strani eventi paranormali. Tu interpreti Aki, una compagna di classe che, a differenza degli altri, non ha mai dimenticato Misao. Quando un giorno la scuola viene improvvisamente trasportata in un’altra dimensione piena di sangue, trappole e spiriti vendicativi, capisci che qualcosa di terribile è successo… e ora esige giustizia.\n\nPezzo dopo pezzo, esplorando le aule, i bagni infestati e i corridoi oscuri, ricostruisci il puzzle: Misao è stata bullizzata brutalmente, molestata, tradita da chi diceva di esserle amico. Ogni morte in questa nuova dimensione non è casuale: è una punizione, decisa dalla rabbia che Misao ha lasciato dietro di sé. I tuoi compagni vengono eliminati uno a uno in modi crudi e simbolici, ciascuno legato alle loro colpe.\n\nMa non tutto è bianco o nero. Quando riesci a raccogliere i resti di Misao e a rimetterli insieme, puoi finalmente parlare con lei… e scoprire la verità più inquietante: tra i responsabili del suo dolore c’è anche il professore, Mr. Sohta, che si era sempre presentato come gentile e protettivo. In realtà, è un sadico manipolatore con un segreto agghiacciante nascosto nel suo armadietto.\n\nAlla fine, puoi scegliere: aiutare Misao a vendicarsi… o perdonare, interrompendo il ciclo di odio. Ma qualunque decisione tu prenda, il trauma è già avvenuto. E i fantasmi del passato non spariscono così facilmente.\n",
-    "voto": "0",
-    "recensione": [{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Grafica & Audio (in stile RPG Maker)","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Gameplay & Puzzle design","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Impatto emotivo e morale","voto": "⭐⭐⭐⭐⭐"}],
-    "image": "/asset/misao.jpg",
-    "trailer": "https://www.youtube.com/watch?v=uHKCJUdPB3Y&ab_channel=GameTrailers",
-    "guide": "https://steamcommunity.com/app/691450/guides/?l=italian"
-},
-{
-    "id": "8",
-    "title": "Ib",
-    "year": 2012,
-    "developer": "kouri",
-    "platforms": [
-        "PC",
-        "Nintendo Switch",
-        "PlayStation 4"
-    ],
-    "genres": [
-        "Survival Horror",
-        "Avventura",
-        "Single-player"
-    ],
-    "description": "Una tranquilla visita al museo si trasforma in un incubo. Ib racconta la storia di una bambina silenziosa che si perde in un mondo surreale e inquietante all'interno di una mostra d'arte. Le pareti iniziano a sanguinare, i dipinti si animano e ogni stanza sembra nascondere un enigma... o un pericolo. Con una grafica minimale, ma suggestiva, Ib è un'avventura horror psicologica che mette al centro l'atmosfera. l'emotività e le scelte del giocatore. Chi incontrerai? Di chi ti potrai fidare? Tra corridoi claustrofobici e opere d'arte viventi, ogni dettaglio racconta qualcosa. E ogni finale dipende da te. Non si tratta solo di uscire. Si tratta di capire cosa ti ha fatto entrare.",
-"spoiler": "Ib inizia in modo tranquillo: sei una bambina di nove anni, in visita con i genitori a una galleria d’arte. Tutto è normale, finché non resti sola. Le luci si spengono, i quadri iniziano a muoversi, e il museo si trasforma in un mondo distorto, dove ogni opera sembra voler comunicare qualcosa… o distruggerti.\n\nTi ritrovi intrappolata in una dimensione alternativa, popolata da creature astratte, enigmi inquietanti e messaggi criptici. Presto incontri Garry, un giovane gentile e protettivo, che diventa il tuo unico alleato nel tentativo di fuggire. Più tardi si aggiunge Mary, una bambina misteriosa e vivace... troppo vivace. Col tempo scopri che Mary non è umana, ma un’opera d’arte vivente che vuole prendere il tuo posto nel mondo reale.\n\nIl gioco si basa su enigmi ambientali e simbolismo visivo. Le “vite” dei personaggi sono rappresentate da rose colorate: quando i petali cadono, la vita si spegne. Un tocco poetico che amplifica la tensione.\n\nIl finale dipende dalle tue azioni, dalla fiducia tra i personaggi e dai dettagli che raccogli lungo il percorso. In alcuni finali puoi salvare Garry e tornare alla realtà con i suoi ricordi intatti… in altri, lui sparisce, dimenticato per sempre. In quello più inquietante, Mary riesce a uscire nel mondo reale al tuo posto, condannandoti all’oblio.\n\nMa in ogni versione, resta lo stesso messaggio: anche l’arte può avere un’anima. E non sempre è bene svegliarla.",
-    "voto": "6",
-"recensione": [{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Grafica & Stile artistico","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Gameplay e Puzzle design","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Personaggi e relazioni","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Impatto emotivo e simbolismo","voto": "⭐⭐⭐⭐⭐"}],
-    "image": "/asset/ib.png",
-    "trailer": "https://www.youtube.com/watch?v=TTRPYLjRGjA&ab_channel=NintendoofAmerica",
-    "guide": "https://ibgame.forumcommunity.net/?t=52263584"
-},
-{
-    "id": "9",
-    "title": "Mad Father",
-    "year": 2012,
-    "developer": "Sen",
-    "platforms": [
-        "PC",
-        "Nintendo Switch"
-    ],
-    "genres": [
-        "Survival Horror",
-        "Avventura",
-        "Indie",
-        "Rompicapo",
-        "Single-player"
-    ],
-    "description": "Nella grande villa immersa nella neve, qualcosa si muove nel seminterrato. In Mad Father interpreti Aya, una bambina curiosa e affezionata a suo padre - un medico brillante ma inquietante - Quando strani eventi iniziano a verificarsi nella notte dell'anniversario della morte di sua madre, Aya si ritrova a esplorare gli oscuri segreti che si nascondono sotto casa sua. Cadaveri, esperimenti, spiriti vendicativi: la villa è un labirinto macabro pieno di rivelazioni. Ma la verità più terificante potrebbe essere queòòa più vicina a lei. Con una trama intensa, ambientazioni gotiche e puzzle ben integrati, Mad Father è un viaggio tra orrore, amore distorto e scelta morale. Fino a che punto ti spingeresti per la famiglia?",
-    "spoiler": "Mad Father ti mette nei panni di Aya Drevis, una bambina che vive in una villa isolata con il padre Alfred, uno scienziato inquietante, e la memoria sempre viva della madre scomparsa. Fin dall’inizio, qualcosa non torna: urla nel cuore della notte, stanze chiuse, un laboratorio proibito sotto la casa. Poi, una sera, tutto esplode. La villa viene invasa da spiriti vendicativi e creature deforme: le vittime degli esperimenti del padre sono tornate per reclamare giustizia.Man mano che esplori la casa, scopri l’orrore: Alfred non è solo un medico, ma uno psicopatico, che ha rapito e smembrato donne per i suoi studi e per costruire un corpo 'perfetto'. E non era solo: la madre di Aya, apparentemente gentile, sapeva tutto… e l’ha aiutato. Ma il vero colpo di scena arriva nel laboratorio: Alfred non vuole fuggire o pentirsi. Vuole trasferire l’anima di Aya in una bambola, per conservarla per sempre giovane e 'pura'. La scelta ora è tua: salvarti, aiutarlo… o distruggere tutto. Il gioco presenta diversi finali, ognuno dei quali ridefinisce la morale della storia. In alcuni, Aya eredita la follia del padre, aprendo una clinica tutta sua. In altri, cerca di scappare e redimersi. Ma il messaggio resta: il male non nasce dal nulla. A volte lo cresci in casa.",
-    "voto": "9",
-    "recensione":[{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Grafica & Effetti visivi (per RPG Maker)","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Gameplay & Finali alternativi","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Impatto emotivo","voto": "⭐⭐⭐⭐⭐"}] ,
-    "image": "/asset/madfather.jpg",
-    "trailer": "https://www.youtube.com/watch?v=V3jrnDe_8GM&ab_channel=PLAYISM",
-    "guide": "https://mad-father.fandom.com/wiki/Walkthrough"
-},
-{
-    "id": "10",
-    "title": "To the Moon",
-    "year": 2011,
-    "developer": "Freebird Games",
-    "platforms": [
-        "PC",
-        "Nintendo Switch",
-        "PlayStation 5"
-    ],
-    "genres": [
-        "Avventura",
-        "Indie",
-        "Visual Novel",
-        "Single-player"
-    ],
-    "description": "Johnny ha un desiderio: andare sulla Luna. Ma non ha molto tempo. In To the Moon, vestiamo i panni di due medici specializzati in un lavoro molto particolare: impiantare ricordi artificiali nei pazienti morenti, affinché possano realizzare il loro ultimo sogno... almeno nella loro mente. Per esaudire il desiderio di Johnny, dovrai viaggiare nei suoi ricordi, dal presente fino all'infanzia, scoprendo lentamente chi era davvero, chi ha amato e perché ha chiesto proprio questo. To the Moon è una storia profonda, tenera e struggente, che parla di rimpianti, memoria e amore. Senza combattimenti, ma con una colonna sonora indimenticabile e un racconto che rimarrà con te a lungo. A volte, il viaggio più importante è dentro di noi.",
-"spoiler": "In To the Moon, non interpreti un eroe, ma due medici: Eva Rosalene e Neil Watts, membri di un’agenzia speciale che esaudisce l’ultimo desiderio delle persone... riscrivendone artificialmente i ricordi prima della morte. Il loro nuovo paziente è Johnny Wyles, un uomo anziano ormai in fin di vita, che ha un solo, enigmatico desiderio: andare sulla Luna. Ma non sa il perché.\n\nPer esaudire il suo desiderio, dovrai attraversare la sua memoria al contrario, saltando da un ricordo all’altro, ricostruendo i momenti salienti della sua vita: l'infanzia solitaria, il matrimonio con River, una donna autistica e tenera, e una serie di eventi quotidiani, dolorosi e dolcissimi, che lentamente svelano una verità dimenticata.\n\nRiver ha passato gran parte della vita a costruire origami a forma di coniglio. Johnny non capisce perché. Ma nei ricordi d'infanzia più remoti, scopri che i due si erano già incontrati da bambini, e avevano fatto una promessa sotto le stelle: ritrovarsi un giorno sulla Luna, se mai si fossero persi.\n\nA causa di un trauma e di un farmaco somministrato da piccolo, Johnny ha dimenticato quell'incontro. E River, che invece lo ricordava, ha vissuto tutta la sua vita cercando di riportare alla luce quella promessa… senza mai spiegarla apertamente.\n\nAlla fine, Eva e Neil riescono a impiantare i ricordi artificiali: Johnny ricorda il motivo, va sulla Luna... e muore sereno, mano nella mano con River, nello spazio infinito dei suoi pensieri.\n",
-    "voto": "1",
-    "recensione":[{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Emozione e profondità","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Colonna sonora","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Gameplay (narrativo)","voto": "⭐⭐⭐⭐☆"},
-     {"voce":"Stile visivo & direzione artistica","voto": "⭐⭐⭐⭐☆"}] ,
-    "image": "/asset/tothemoon.jpg",
-    "trailer": "https://www.youtube.com/watch?v=sqkJuSV-23U&ab_channel=KanGao",
-    "guide": "https://www.trueachievements.com/game/To-the-Moon/walkthrough/1"
-},
-{
-    "id": "11",
-    "title": "Finding Paradise",
-    "year": 2017,
-    "developer": "Freebird Games",
-    "platforms": [
-        "PC"
-    ],
-    "genres": [
-        "Adventure",
-        "Indie",
-        "Visual Novel",
-        "Single-player"
-    ],
-    "description": "Ogni vita è piena di sogni non realizzati. Alcuni troppo grandi. Altri, semplicemente... dimenticati. In Finding Paradise, seuqel diretto di To the Moon, torniamo a seguire i dottori Eva Rosalene e Neil Watts nel loro delicato lavoro: modificare i ricordi di un paziente morente per permettere di realizzare il suo desiderio più profondo. Questa volta il paziente è Colin, un uomo la cui richiesta non è quella di cambiare la propria vita.. ma di capirla. Viaggerai tra i suoi ricordi, in un racconto malinconico e riflessivo che esplora l'identità, la dualità tra realtà e desiderio e il valore dei piccoli momenti. Finding Paradise non è solo un gioco, ma un'esperienza narrativa capace di toccare corde profonde, con una colonna sonora emozionante e una scrittura delicata. Perché a volte, ciò che cerchiamo non è un nuovo inzio, ma una nuova prospettiva.",
-"spoiler": "In Finding Paradise torni a vestire i panni dei medici Eva Rosalene e Neil Watts, stavolta chiamati ad esaudire l’ultimo desiderio di Colin Reeds, un uomo che, apparentemente, ha avuto una vita normale, equilibrata, serena. Moglie, figlio, carriera da pilota. Nulla di tragico, nulla da rimpiangere... eppure qualcosa non va.\n\nColin chiede un desiderio impossibile: vuole cambiare qualcosa nella sua vita, ma non vuole che nulla cambi davvero.\nCosì Eva e Neil si trovano a scavare tra i ricordi di un uomo in conflitto con sé stesso. Il gioco si sviluppa come un viaggio al contrario nella sua mente: dalla vecchiaia all’infanzia, esplorando momenti quotidiani che, insieme, raccontano una crisi di identità silenziosa ma profonda.\n\nAl centro di tutto c’è Faye, l’amica immaginaria di Colin da bambino. Un personaggio solo lui può vedere, ma che lo accompagna fino all’età adulta come se fosse reale. E qui arriva la rivelazione più potente: Faye è la rappresentazione della sua parte più autentica, dei suoi sogni, del suo desiderio di libertà… che ha sacrificato per vivere una vita sicura, stabile, “giusta”.\n\nIn un atto struggente, la coscienza di Faye si ribella al sistema di Eva e Neil, rifiutandosi di essere cancellata. Solo affrontandola e accettandola, Colin può finalmente trovare pace, non con un ricordo fittizio, ma con la consapevolezza di aver fatto ciò che poteva, anche se non ha seguito i suoi sogni fino in fondo.\n\nAlla fine, non viene impiantata alcuna illusione. Colin muore sapendo di non aver raggiunto tutto ciò che voleva… ma di aver trovato un equilibrio tra sogno e realtà.\n",
-    "voto": "2",
-    "recensione":[{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Emozione e profondità","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Colonna sonora","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Gameplay (narrativo)","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Stile visivo & direzione artistica","voto": "⭐⭐⭐⭐☆"}] ,
-    "image": "/asset/findingparadise.jpg",
-    "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922167442&searchtext=%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A+Finding+Paradise"
-},
-{
-    "id": "12",
-    "title": "Chrono Trigger",
-    "year": 1995,
-    "developer": "Freebird Games",
-    "platforms": [
-        "Windows",
-        "macOS",
-        "Linux"
-    ],
-    "genres": [
-        "Adventure",
-        "Indie",
-        "Story Rich"
-    ],
-    "description": "Quando il tempo si spezza, l'umanità è l'unica cosa che può salvarlo. Chrono Trigger è un'epica avventura attraverso epoche passate, future e dimenitcate, dove ogni scelta, battaglia e amicizia lascia un'impronta nella storia. Con personaggi indimenticabili, un sistema di combattimento innovativo e più finali, è considerato uno dei più grandi RPG di tutti i tempi. Non viaggi solo nel tempo. Viaggi in ciò che conta.",
-"spoiler": "Chrono Trigger inizia come una semplice avventura: sei Crono, un ragazzo qualunque che, durante una fiera, finisce coinvolto in un esperimento di teletrasporto. Ma qualcosa va storto: Marle, una ragazza incontrata per caso, sparisce in un portale temporale. Da lì, il gioco esplode in una delle narrazioni più ambiziose di sempre. Viaggerai attraverso epoche diverse: il Medioevo, il futuro post-apocalittico, l’antichità magica, l’era preistorica, e persino la fine del tempo. Ogni epoca ha la sua atmosfera, i suoi nemici, i suoi drammi. Il legame che le unisce è una minaccia: Lavos, un essere extraterrestre che dorme sotto la crosta terrestre, crescendo nel silenzio per poi distruggere tutto nel 1999. Ma Chrono Trigger non è solo la storia di come salvare il mondo. È la storia di ogni personaggio: di Frog, un cavaliere maledetto; di Robo, un robot con un cuore umano; di Magus, un nemico che si rivela fratello perduto e tragico; di Lucca, la scienziata tormentata dal suo passato; e persino di Crono, che a un certo punto muore… e può essere salvato solo se lo desideri davvero. Il gioco offre oltre 13 finali differenti, basati sulle tue scelte, il momento in cui affronti Lavos, e i tuoi legami con i personaggi. Puoi persino affrontare il boss finale all'inizio della partita, in una delle prime implementazioni di New Game+ della storia. Il messaggio di Chrono Trigger è chiaro: il tempo può essere cambiato, ma le conseguenze sono sempre reali.",
-    "voto": "10",
-    "recensione":[{"voce":"Story & Atmosphere","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Sistema di combattimento","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Personaggi e sviluppo","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Colonna sonora","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Rigiocabilità & Finali alternativi","voto": "⭐⭐⭐⭐⭐"}] ,
-    "image": "/asset/chronotrigger.png",
-    "trailer": "https://www.youtube.com/watch?v=2fl-AylaHY8&ab_channel=SquareEnix",
-    "guide": "https://multiplayer.it/soluzioni/chrono-trigger-soluzione.html"
-},
-{
-    "id": "13",
-    "title": "Yume Nikki",
-    "year": 2004,
-    "developer": "KIKIYAMA",
-    "platforms": [
-        "Windows",
-        "macOS",
-        "Linux"
-    ],
-    "genres": [
-        "Adventure",
-        "Indie",
-        "Psychological Horror"
-    ],
-    "description": "Chiudi gli occhi. Apri la porta. In Yume Nikki esplori i sogni frammentati e inquietanti di una ragazza che non parla  e non esce mai dalla sua stanza. Senza dialoghi né spiegazioni, attraversi paesaggi surreali, misteriosi e spesso disturbanti, in un'esperienza che lascia spazio solo a interpretazioni e sensazioni. Non è un incubo. È solo il mondo che vive dentro di te.",
-"spoiler": "In Yume Nikki non ci sono nemici, dialoghi né obiettivi espliciti. Interpreti Madotsuki, una ragazza silenziosa che si rifiuta di uscire dal suo appartamento. L’unico modo per “giocare” è dormire. Solo nei sogni puoi muoverti. Ma ciò che trovi là dentro non è un sogno. È un viaggio in un inconscio spezzato.\n\nIl gameplay si basa sull’esplorazione libera di ambienti surreali e spesso inquietanti: deserti rossi, città senza uscita, grotte piene di occhi, corridoi infiniti, strade buie, esseri alieni, paesaggi glitchati. Ogni mondo ha una sua logica, ma mai esplicita. L’obiettivo è raccogliere \"Effetti\", oggetti simbolici (come capelli lunghi, un coltello, una bicicletta) che ti trasformano o ti permettono di accedere a nuove aree. Ma nessuno ti dice cosa significano. Nessuno ti dice perché sei lì.\n\nUno dei momenti più famosi (e terrificanti) è l’incontro con Uboa, un’entità deforme che appare solo in condizioni molto specifiche e ti intrappola in un incubo senza uscita. Ma questo è solo uno dei tanti simboli che i giocatori hanno interpretato in infiniti modi: alienazione, abuso, depressione, reclusione, trauma infantile.\n\nIl finale è tanto semplice quanto devastante: dopo aver raccolto tutti gli effetti, Madotsuki si sveglia, li deposita… e si getta dal balcone del suo appartamento. Nessuna spiegazione. Nessuna parola. Solo un suono sordo, e il sangue che si espande sul marciapiede.",
-    "voto": "4",
-    "recensione":[{"voce" : "Atmosfera & Simbolismo","voto": "⭐⭐⭐⭐⭐"}, 
-    {"voce":"Originalità e sperimentazione","voto": "⭐⭐⭐⭐⭐"},
-    {"voce":"Musica & Immersione","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Gameplay non convenzionale","voto": "⭐⭐⭐⭐☆"},
-    {"voce":"Impatto emotivo & culturale","voto": "⭐⭐⭐⭐⭐"}] ,
-    "image": "/asset/yumenikki.jpg",
-    "trailer": "https://www.youtube.com/watch?v=GsvcND8NQEg&ab_channel=PLAYISM",
-    "guide": "https://gamefaqs.gamespot.com/pc/230430-yume-nikki/faqs/52629"
-},
-{
-    "id": "14",
-    "title": "A Space for the Unbound",
-    "year": 2023,
-    "developer": "Mojiken Studio, Toge Productions",
-    "platforms": [
-        " Windows",
-        "macOS",
-        "Linux",
-        "Nintendo Switch",
-        "PlayStation 4",
-        "Xbox One"
-    ],
-    "genres": [
-        "Adventure",
-        "Indie",
-        "Story Rich"
-    ],
-    "description": "A volte, per trovare te stesso, devi prima attraversare il mondo degli altri. Ambientato nell'Indonesia degli anni '90, A SPace for the Unbound è un racconto toccante sull'adolescenza, l'ansia e i legami invisibili tra le persone. Tra poteri memtali, gatti parlanti e realtà che si piegano alle emozioni, ti muoverai in una storia delicata e potente, dove ogni personaggio ha un cuore che vale la pena ascoltare. Un'avventura pixelata, ma con emozioni ad alta risoluzione.",
-"spoiler": "In A Space for the Unbound sei Atma, uno studente dell’ultimo anno, pigro ma dal cuore gentile, che vive la sua quotidianità con la fidanzata Raya, tra sogni, gatti e sogni sul futuro. Ma ben presto, la realtà inizia a sgretolarsi: si aprono crepe nel cielo, i ricordi si confondono, le persone si comportano in modo strano. E soprattutto, Raya sembra avere poteri sovrannaturali che deformano il mondo.\n\nAtma scopre di poter \"entrare nella mente\" delle persone con un potere chiamato Space Dive, immergendosi nei loro traumi, insicurezze e ricordi soppressi. Ogni immersione è un viaggio simbolico e psicologico che ti svela frammenti di verità su chi ti circonda… e su te stesso.\n\nCol tempo, emerge una verità terribile: Atma è morto anni prima, e tutto quello che stai vivendo è una simulazione mentale creata da Raya, che non riesce ad accettare la perdita. Il mondo si deforma sempre di più, inizia a collassare su sé stesso, e anche il confine tra amore e controllo diventa fragile.\n\nAlla fine, Atma deve aiutare Raya ad accettare la realtà e lasciarlo andare. Solo affrontando insieme il dolore possono spezzare il ciclo di rimozione e negazione. L’ultimo atto è dolce e devastante: Raya lo lascia andare… e la città torna in silenzio, come dopo un lungo sogno.",
-    "voto": "3",
-    "recensione":[{"voce": "Storia & Profondità emotiva","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Ambientazione e direzione artistica","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Gameplay & Esperienza narrativa","voto": "⭐⭐⭐⭐☆"},
-    {"voce": "Temi trattati con sensibilità","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Colonna sonora","voto": "⭐⭐⭐⭐⭐"}],
-    "image": "/asset/aspacefortheunbound.jpg",
-    "trailer": "https://www.youtube.com/watch?v=dobGFiasync&ab_channel=NintendoofAmerica",
-    "guide": "https://www.neoseeker.com/a-space-for-the-unbound/walkthrough"
-},
-{
-    "id": "15",
-    "title": "Rakuen",
-    "year": 2017,
-    "developer": "Laura Shigihara",
-    "platforms": [
-        "Windows",
-        "macOS",
-        "Linux"
-    ],
-    "genres": [
-        "Adventure",
-        "Indie",
-        "Story Rich"
-    ],
-    "description": "Un bambino, un libro e un mondo che unisce fantasia e dolore. In Rakuen accompagnerai un piccolo paziente e sua madre in un'avventura attraverso un regno magico connesso ai ricordi e alle vite reali degli altri pazienti dell'ospedale. Con'unestetica tenera, una colonna sonora commovente e zero combattimenti, è un gioco che tu farà ridere, pensare e,molto probabilmente piangere. Non si tratta di combattere. Si tratta di guarire.",
-"spoiler": "Rakuen ti mette nei panni di un bambino malato, costretto a letto in un ospedale. Non ha nome, né voce, ma ha un desiderio: che la madre gli legga il suo libro preferito, Rakuen, una fiaba su un ragazzo che viaggia in un mondo magico per chiedere un desiderio al Guardiano della Foresta.\n\nBen presto, scopri che il mondo di Rakuen non è solo una storia, ma un universo parallelo, collegato alle anime dei pazienti dell’ospedale. Ogni stanza diventa un portale verso un personaggio spezzato: un vecchio solo, una ragazza depressa, un uomo che ha perso il figlio. Il tuo compito è aiutarli ad affrontare i loro rimpianti, le loro paure, i loro ultimi pensieri.\n\nOgni area è un piccolo universo narrativo, fatto di puzzle simbolici e scelte emotive. Insieme a tua madre – sempre presente, dolce, paziente – visiti questi mondi e li guarisci con gentilezza e ascolto. Ma più vai avanti, più ti avvicini alla verità.\n\nIl bambino non tornerà mai a casa.\n\nIl mondo di Rakuen è la sua ultima avventura, un modo per accettare la morte senza rabbia, per dire addio con il cuore leggero. Nell’atto finale, il Guardiano ti concede il desiderio… ma il desiderio non è guarire, né vivere per sempre. È lasciare andare. Con tua madre al tuo fianco, attraversi la soglia. E scompari, in una luce che sa di musica, memoria e amore.\n",
-    "voto": "4",
-    "recensione":[{"voce": "Emozione & Significato","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Storia & Personaggi","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Musica & Narrazione sonora","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Gameplay semplice ma efficace","voto": "⭐⭐⭐⭐☆"},
-    {"voce": "Impatto duraturo","voto": "⭐⭐⭐⭐⭐"}] ,
-    "image": "/asset/rakuen.jpg",
-    "trailer": "https://www.youtube.com/watch?v=AvPThUEI2fE&ab_channel=supershigi",
-    "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2013348222"
-},
-{
-    "id": "16",
-    "title": "Everhood",
-    "year": 2021,
-    "developer": "Foreign Gnomes",
-    "platforms": [
-        "Windows",
-        "macOS",
-        "Linux",
-        "Nintendo Switch",
-        "PlayStation 4",
-        "Xbox One"
-    ],
-    "genres": [
-        "Adventure",
-        "Indie",
-        "RPG"
-    ],
-    "description": " Tu non sei il protagonista. Tu sei solo un burattino rosso senza braccio. Everhood è un viaggio psichedelico tra musica, assurdità e filosofia, dove ogni scontro è un duello ritmico e ogni personaggio sfida le regole della realtà. Ispirato a Undertale, ma più anarchico e psichedelico, ti porta a domandarti: cosa significa esistere in un mondo fatto solo per giocarre? La regola è : non ci sono regole. Solo ritmo, caos e decisioni irreversibili.",
-    "spoiler": " In Everhood sei Red, un burattino senza un braccio, risvegliato in un mondo surreale dove nulla ha un senso convenzionale. La tua missione iniziale sembra semplice: recuperare il braccio rubato da Gold Pig. Ma molto presto, il gioco si trasforma. L’universo che esplori è un miscuglio di colori psichedelici, personaggi eccentrici e… battaglie musicali, dove invece di attaccare, devi evitare gli attacchi seguendo il ritmo. Fin dall'inizio, capisci che nulla è reale come sembra. Le battaglie diventano esperienze sensoriali. I personaggi sembrano parlare in codice, con frasi che sfiorano l’assurdo e l’esistenziale. C'è chi vuole morire, chi si è dimenticato cosa significa esistere, chi cerca il significato dell'immortalità. E qui arriva il colpo di scena: Red era uno degli Immortali, ma ha scelto di perdere la memoria. Il mondo in cui ti trovi è popolato da esseri eterni che non possono morire, condannati a un ciclo infinito di noia e stagnazione. La vera missione non è salvare, ma porre fine. Red, ora consapevole, deve aiutare tutti i personaggi a morire, liberandoli dalla prigione dell’eternità. Uno a uno, attraverso battaglie intense e dolorose, li accompagni verso il loro addio. Il finale ti pone di fronte alla scelta definitiva: porre fine a tutto… o lasciare che il ciclo continui. Ma quale delle due è davvero compassione? E tu, come giocatore, sei pronto a lasciarli andare?",
-    "voto": "8",
-    "recensione":[{"voce": "Originilità & Direzione artistica","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Colonna sonora & Battle system","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Narrazione filosofica & impatto emotivo","voto": "⭐⭐⭐⭐⭐"},
-    {"voce": "Accessibilità del gameplay","voto": "⭐⭐⭐⭐☆"},
-    {"voce": "Esperienza complessiva","voto": "⭐⭐⭐⭐⭐"    }] ,
-    "image": "/asset/everhood.webp",
-    "trailer": "https://www.youtube.com/watch?v=iknL_MyBr_8&ab_channel=GameTrailers",
-    "guide": "https://everhood.fandom.com/wiki/Endings"
-}
+    {
+        "id": "1",
+        "title": "OMORI",
+        "year": 2020,
+        "developer": "Omocat",
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "genres": [
+            "Role-playing",
+            "Avventura",
+            "Horror Psicologico"
+        ],
+        "description": "OMORI è un viaggio psicologico tra sogno e incubo, dove ogni scelta può portarti più vicino alla verità... o può nasconderla per sempre. Nella storia interpreterai Omori, un ragazzo silenzioso che si risveglia in un mondo onirico, popolato da amici adorabili, colori pastello e paesaggi surreali. Ma qualcosa non va: un'oscurità striscia sotto la superficie, pronta ad emergere. Attraverso combattimenti a turni, puzzle ambientali e una narrazione intensa, esplorerai sia il mondo dei sogni che quello reale, scavando nei ricordi repressi del protagonista. Cos'è successo davvero? Cosa stai cercando di dimenticare? Omori non è solo un gioco: è un'esperienza emotiva profonda, che ti farà ridere, piangere e riflettere. Con giusta una nota anche un pò horror. Preparati a guardarti dentro. Ma ricorda: quando chiudi gli occhi, i mostri non spariscono.",
+        "spoiler": "Dietro l'estetica dolce e i colori pastello, OMORI nasconde un trauma profondo, una verità che lentamente si insinua nella mente del giocatore. Non sei solo in un mondo onirico: sei intrappolato nei ricordi di Sunny, un ragazzo schiacciato dal senso di colpa per la morte della sorella, Mari.La versione silenziosa e distaccata di te stesso Omori è il tuo meccanismo di difesa. Il bianco e nero del suo mondo rappresenta l'apatia emotiva, il rifiuto della realtà. Il “Mondo a testa in giù” è una fuga dalla verità, dove gli amici d'infanzia vivono ancora, ma deformati dal tempo e dalla mente. Con il passare delle ore, il confine tra sogno e realtà si spezza: Basil, l'amico che sa la verità, diventa sempre più instabile, mentre la figura dell'”Ombra” la manifestazione dell'ansia e del senso di colpa ti perseguita ovunque. Scoprirai che non è stato un incidente: in un litigio improvviso, Sunny ha spinto Mari giù dalle scale, causandone la morte. In preda al panico, insieme a Basil ha inscenato un suicidio. Da quel giorno, il trauma ha divorato la coscienza di entrambi. La vera battaglia finale non è contro un boss, ma contro te stesso. Contro Omori. L'unico modo per guarire è accettare il dolore, uscire dal sogno e confessare. Ma il gioco ti lascia scegliere: affrontare la verità… o restare per sempre nel vuoto dell'oblio. OMORI non è solo un viaggio mentale, è una riflessione sul lutto, il rimorso, e la possibilità del perdono. Un pugno nello stomaco travestito da fiaba.",
+        "voto": "8",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Arte & Musica",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Combattimento",
+                "voto": "⭐⭐⭐⭐☆",
+                "nota": "alcuni lo trovano troppo semplice"
+            },
+            {
+                "voce": "Profondità psicologica",
+                "voto": "⭐⭐⭐⭐⭐",
+                "nota": "un'esperienza unica nel suo genere"
+            },
+            {
+                "voce": "Rigiocabilità",
+                "voto": "⭐⭐⭐⭐☆",
+                "nota": "diversi finali e segreti da scoprire"
+            }
+        ],
+        "image": "/asset/omori.jpg",
+        "trailer": "https://www.youtube.com/watch?v=5jAYHIfEC0E&ab_channel=OmoriITA",
+        "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2948653114"
+    },
+    {
+        "id": "2",
+        "title": "Stardew Valley",
+        "year": 2016,
+        "developer": "ConcernedApe",
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Mobile"
+        ],
+        "genres": [
+            "Simulazione",
+            "Role-playing"
+        ],
+        "description": "Stanco della solita frenesia della città e del peso della routine, erediti la vecchia fattoria di tuo nonno neòòa tranquilla Stardew Valley. All'inzio c'è solo terra incolta e qualche strumento arrugginito, ma con impegno, pazienza e un pizzico di magia, puoi trasformarla in qualcosa di speciale. Stardew Valley è molto più di un gestionale agricolo: è un mondo vivo, pieno di storie, legami e misteri. Coltiva ortaggi, pesca nei fiumi, esplora le miniere infestate, partecipa a festival locali e stringi relazioni profonde con gli abitanti del villaggio. Dietro la semplicità della vita rurale si nasconde un senso di appartenenza e scoperta che cresce giorno dopo giorno. E se lo vorrai, potrai persino innamorarti, costruire una famiglia... o vivere da eremita coltivando zucche giganti. In Stardew Valley, ogni scelta conta e ogni stagione porta nuove avventure. Scopri i segreti della natura, riscopri il valore della comunità e trova la tua strada in questo angolo di paradiso. La vita semplice non è mai stata così affascinante.",
+        "spoiler": "All'apparenza è solo una tranquilla simulazione agricola: erediti la fattoria del nonno, lasci alle spalle il grigiore della vita da impiegato e ti trasferisci a Pelican Town per coltivare la terra. Ma Stardew Valley è molto più di questo.\n\nSotto la superficie bucolica, il gioco nasconde temi maturi e una rete di storie personali complesse. Ogni abitante del villaggio ha un passato, un dolore, un segreto. C’è Shane, che lotta contro l’alcolismo e la depressione; Abigail, affascinata dall’occulto e in conflitto con i genitori; Sebastian, solitario e frustrato dalla vita di provincia. Le loro storie si svelano lentamente, attraverso eventi speciali e relazioni crescenti.\n\nDietro la fattoria, scoprirai anche un centro comunitario abbandonato, abitato da spiriti chiamati Junimos. Potrai restaurarlo raccogliendo risorse… oppure scegliere di allearti con il colosso aziendale JojaMart, sacrificando l’anima della città in nome dell’efficienza. Sì, anche Stardew Valley parla di capitalismo e scelta morale.\n\nMa non è tutto: puoi esplorare miniere infestate da mostri, scavare nel deserto alla ricerca di reliquie antiche, e addirittura comunicare con il fantasma del nonno, che giudicherà la tua vita alla fine del secondo anno. E se esplori a fondo, scoprirai l’enigmatico cultista Krobus, abitante delle fogne, o la stanza segreta del Mago, legata a misteriosi rituali dimenticati.\n\nAnche l’amore è più profondo di quanto sembri: puoi sposare chiunque tra 12 personaggi, indipendentemente dal genere. E se il matrimonio non funziona? Puoi divorziare… o chiedere alla Strega Oscura di cancellare la memoria del tuo ex coniuge.",
+        "voto": "8",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Arte & Musica",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay e varietà",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Profondità dei personaggi",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Sistema di progressione e crafting",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Contenuti segreti e rigiocabilità",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/stardewvalley.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ot7uXNQskhs&ab_channel=ConcernedApe",
+        "guide": "https://it.stardewvalleywiki.com/Stardew_Valley_Wiki"
+    },
+    {
+        "id": "3",
+        "title": "Undertale",
+        "year": 2015,
+        "developer": "Toby Fox",
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "genres": [
+            "Role-playing",
+            "Indie",
+            "Fantasy"
+        ],
+        "description": "Sei un bambino caduto nel Mondo Sotterraneo, un regno separato da quello umano e abitato da mostri dimenticati. Ma questo non è il solito RPG. Qui puoi scegliere se combattere... o stringere amicizie. Ogni incontro è un'occasione per capire, ascoltare, perdonare. O distruggere. Le tue azioni determinano il destino di chi incontri e ti porteranno verso finali completamente diversi. Co un grafica retrò isiprata ai giochi in 8-bit e una colonna sonora iconica Undertale riesce ad essere al tempo stesso comico, commovente e inquietante. Dietro il sio aspetto semplice si nasconde un'esperienza profonda, intelligente e piena di sorprese. Ti pentirai? Riderai? Ti affezionerai a chi non pensavi? In Undertale, il vero nemico... potresti essere tu!",
+        "spoiler": "In Undertale, non sei solo un essere umano caduto nel mondo dei mostri: sei Frisk, e ogni tua azione avrà conseguenze profonde. Ma il vero protagonista non è il combattimento... è la tua coscienza.\n\nAll’inizio sembra un classico RPG: dungeon, nemici, livelli. Ma subito qualcosa cambia. Puoi scegliere di non uccidere nessuno. Puoi parlare, perdonare, abbracciare. Ogni mostro ha una personalità, una storia, una ragione per combattere. Il gioco ti invita a pensare: vale davvero la pena colpire?\n\nMa se lo farai… il gioco non dimenticherà. Undertale ha tre percorsi principali:\n\nIl Percorso Pacifista, dove non uccidi nessuno e sveli la verità dietro il Regno dei Mostri, ottenendo un finale commovente e pieno di speranza.\n\nIl Percorso Neutrale, dove potresti uccidere per errore o convenienza, ottenendo uno dei tanti finali “grigi”.\n\nIl Percorso Genocida, dove scegli consapevolmente di eliminare ogni creatura vivente, affrontando boss strazianti come Undyne the Undying e Sans, in uno dei combattimenti più difficili e memorabili di sempre.\n\nMa Undertale va oltre: ricorda quello che fai. Anche se riavvii la partita, il gioco può accorgersene. Cancella i salvataggi quanto vuoi: l’universo avrà comunque le cicatrici delle tue scelte.\n\nCon un tono che alterna umorismo, tenerezza, tristezza e inquietudine, Undertale sfonda la quarta parete, interroga il giocatore, e ti costringe a chiederti cosa significa davvero \"giocare bene\".",
+        "voto": "9",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Arte & Musica",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay e Originalità",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Personaggi e scrittura",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Impatto emotivo e rigiocabilità",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/undertale.jpg",
+        "trailer": "https://www.youtube.com/watch?v=1Hojv0m3TqA&ab_channel=FwugRadiation",
+        "guide": "https://www.ign.com/wikis/undertale/Walkthrough"
+    },
+    {
+        "id": "4",
+        "title": "OneShot",
+        "year": 2014,
+        "developer": "Little Cat Feet",
+        "platforms": [
+            "PC"
+        ],
+        "genres": [
+            "Avventura",
+            "Puzzle",
+            "Rompicapo"
+        ],
+        "description": "Il destino di un mondo dimenticato è nelle mani di Niko, un bambino dagli occhi felini e dallo sguardo malinconico. Ma niko non è l'unico a cui quel moondo parla... perché parla anche con te! Esplora una terra sull'orlo del collasso, dove la luce sta svanendo e l'unica speranza è un'antica profezia. Usa ingegno, empatia e delicatezza per aiutare Niko a riportare la luce al faro sacro. Ma attento: ogni tua decisione conta e OneShot sa che stai giocando! Con uno stile pixel art delicato e una narrazione metanarrativa emozionante, OneShot ti trascina in un'avventura intima, dove la narrazione tra giocatore e personaggio è al cento dell'esperienza. Hai solo un 'colpo'. Ma cosa succede... se non vuoi usarlo?",
+        "spoiler": "In OneShot non sei solo il protagonista. Tu sei il Dio.\nLetteralmente.\n\nAccompagni Niko, un bambino dai grandi occhi felini, caduto in un mondo decadente, a metà tra sogno e tecnologia perduta. Il suo compito? Riaccendere il Sole—una lampadina gigante da portare in cima a una torre. Ma Niko non è solo un avatar: è un essere vivente, consapevole, che ti parla. Non al tuo personaggio. A te, usando il tuo vero nome di sistema operativo. Il gioco rompe la quarta parete, chiama il giocatore per nome, legge file sul tuo PC, chiude e riapre finestre da solo. Ti guarda. Ti conosce.\n\nNel corso del viaggio, visiti tre regioni (le Rovine, il Centro, e la Torre), incontrando personaggi decaduti e macchine dimenticate, tutti legati da una nostalgia malinconica e da un unico scopo: aiutarti a riportare la luce. Ma il mondo è destinato a morire, e la tua missione si trasforma in una scelta impossibile: salvare il mondo… o salvare Niko.\n\nNel finale originale, puoi riaccendere il Sole e lasciare Niko intrappolato lì per sempre. Ma in OneShot: Solstice (l’epilogo sbloccabile), scopri la verità: l’intero mondo è una simulazione, creata per dare una speranza fittizia. Solo aggirando le regole del gioco, forzando persino i suoi file, puoi spezzare il ciclo, distruggere la simulazione e riportare Niko a casa. Ma così facendo, il mondo e i suoi abitanti cesseranno di esistere.\nOgni azione ha un prezzo. E quando Niko se ne va… non potrà mai più tornare.\n\nIl gioco si disinstalla da solo. E tu rimani solo, con una finestra chiusa, e la sensazione di aver fatto la cosa giusta… o di aver perso qualcosa per sempre.\n",
+        "voto": "7",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Arte & Musica",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay e Puzzle design",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Interazione con il giocatore",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Profondità emotiva",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/oneshot.webp",
+        "trailer": "https://www.youtube.com/watch?v=8PaAA0GkSv4&ab_channel=NintendoofAmerica",
+        "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=816687072"
+    },
+    {
+        "id": "5",
+        "title": "Night Reverie",
+        "year": 2021,
+        "developer": "Somber Pixel",
+        "platforms": [
+            "PC",
+            "Nintendo Switch"
+        ],
+        "genres": [
+            "Avventura",
+            "Indie",
+            "Rompicapo"
+        ],
+        "description": "In Night Reverie, il mondo dei sogni si intreccia con la realtà in un'avventura che sfida le leggi della logica e della fisica. Segui le orme di un giovane protagonista Matt che, dopo un incidente misterioso, si ritrova intrappolato in un universo onirico pieno di enigmi e pericoli. Esplora paesaggi surreali, risolvi rompicapi intricati e incontra personaggi come mobili parlanti, animali enigmatici e stanze bizzarre che ti guideranno o ostacoleranno nel tuo cammino. Con una grafica evocativa e una colonna sonora ipnotica, Night Reverie ti invita a riflettere su temi come la memoria, il rimpianto,la ricerca di identità e l'elaborazione delle emozioni anche in infanzia. Ma attenzione: in questo mondo, nulla è come sembra e ogni scelta può avere conseguenze impreviste. Ogni sogno ha un significato, ma sei pronto a scoprire cosa si nasconde nel tuo? ",
+        "spoiler": "In Night Reverie, sei Matt, un bambino che si sveglia in una versione distorta della sua casa: una realtà sospesa tra sogno e incubo, dove oggetti quotidiani assumono tratti magici e familiari misteriosi sembrano non essere più loro stessi. Il tuo obiettivo è chiaro: trovare tua sorella Sophie, scomparsa senza lasciare traccia.\n\nMa più esplori questa versione alternativa della tua casa, più ti rendi conto che qualcosa non torna. Gli ambienti si fanno via via più astratti, i personaggi più inquietanti, e dietro ogni enigma si nasconde un frammento della verità. Il gioco è scandito da puzzle e piccoli dialoghi che parlano, senza dire troppo, di perdita, trauma e accettazione.\n\nAlla fine, scopri che tutto ciò che hai vissuto è un’elaborazione onirica del dolore: Sophie è morta, e Matt è bloccato in un ciclo mentale creato per proteggerlo dalla verità. Ogni stanza, ogni personaggio simbolico, ogni meccanica del sogno rappresenta fasi del lutto e della memoria. Il finale ti lascia con una scelta: restare nel sogno con l’illusione della presenza di Sophie, oppure svegliarti e affrontare la realtà da solo.\n\nNon ci sono combattimenti, né finali multipli spettacolari. Solo una storia personale, raccontata con delicatezza, dove l’immaginazione di un bambino diventa un rifugio… e allo stesso tempo una prigione.\n",
+        "voto": "5",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Arte & Musica",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Gameplay e Puzzle design",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Profondità emotiva",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Originalità e simbolismo",
+                "voto": "⭐⭐⭐⭐☆"
+            }
+        ],
+        "image": "/asset/nightreverie.jpg",
+        "trailer": "https://www.youtube.com/watch?v=McDr0XVOsOA&ab_channel=ID%40Xbox",
+        "guide": "https://www.chaptercheats.com/cheat/pc/482243/night-reverie/video-walkthrough/330847"
+    },
+    {
+        "id": "6",
+        "title": "Final Fantasy IV",
+        "year": 1991,
+        "developer": "Square Enix",
+        "platforms": [
+            "PC",
+            "Super Nintendo",
+            "Mobile",
+            "PlayStationPortable",
+            "Gameboy Advance"
+        ],
+        "genres": [
+            "Role-playing",
+            "Avventura",
+            "Fantasy"
+        ],
+        "description": "In un mondo in bilico tra luce e oscurità, Final Fantasy IV ti mette nei panni di Cecil, un cavaliere oscuro tormentato dal suo passato in cerca di redenzione. Quando l'Impero di Baron inizia a conquistare i Cristalli elementali, Cecil e i suoi compagni dovranno affrontare tradimenti, battaglie epiche e verità nascoste che cambieranno per sempre il loro desitno. Tra i primi JRPG a introdurre una narrazione drammatica e personaggi complessi, con un sistema di combattimento Active Time Battle ricoluzionario per l'epoca. Tra lune gemelle, evocazioni leggendarie e momenti toccanti, Final Fantsay IV è un viaggio che definisce il genere. Non è solo una quest, ma una storia di scarificio, amicizia e ....salvezza.",
+        "spoiler": "All'inizio sei Cecil, cavaliere oscuro al servizio del Regno di Baron, tormentato dai dubbi su ciò che sta facendo in nome della patria. Dopo aver commesso atrocità su ordine del re, inizia un percorso che non è solo un viaggio fisico, ma una redenzione morale. Quando il potere e la fedeltà vengono messi in discussione, nasce il conflitto interiore.\nDurante il viaggio, Cecil abbandona l’oscurità e rinasce come Paladino, in una delle sequenze più iconiche della saga. Ma la posta in gioco cresce: i cristalli del mondo vengono sottratti uno a uno, e il nemico si rivela essere Golbez, un potente mago legato al protagonista da un filo di sangue. Sì, Golbez è in realtà suo fratello, manipolato da un’entità aliena di nome Zemus, proveniente dalla Luna.\nLa storia si espande oltre i confini del mondo, portandoti letteralmente sulla Luna, dove la tecnologia e la magia si intrecciano. Il gioco culmina in un sacrificio collettivo: diversi personaggi si immolano lungo il percorso, in momenti struggenti e memorabili. Ma non tutto è perduto: l’amicizia, l’onore e l’amore portano alla salvezza.\nAlla fine, Cecil diventa re, Rosa sua regina, e il mondo ha una nuova speranza. Ma le cicatrici del passato restano, scolpite nel cuore dei sopravvissuti.\n",
+        "voto": "10",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Colonna sonora",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay & Sistema di battaglia",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Personaggi e sviluppo",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Grafica (contestualizzata all’epoca)",
+                "voto": "⭐⭐⭐⭐☆"
+            }
+        ],
+        "image": "/asset/finalfantasy4.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8mA4SU17Hfg&ab_channel=MMOGAcom",
+        "guide": "https://finalfantasy.fandom.com/it/wiki/Final_Fantasy_IV/Soluzione"
+    },
+    {
+        "id": "7",
+        "title": "Misao",
+        "year": 2011,
+        "developer": "Sen",
+        "platforms": [
+            "PC"
+        ],
+        "genres": [
+            "Horror Psicologico",
+            "Avventura",
+            "Indie",
+            "Rompicapo",
+            "Single-player"
+        ],
+        "description": "Tre mesi fa, Misao è scomparsa. Ora, qualcosa di oscuro infesta la scuola. Misao è un horror psicologico in pixel art, ambientato in un liceo giapponese intrappolato tra realtà e maledizione. Quando uno strano terremoto scuote l'edificio, tu - uno studente qualunque- vieni catapultato in una dimensione distorta dove spiriti vendicativi, visioni sanguinose e segreti sepolti emergono dal passato. Attraverso indizi, enigmi e scelte morali, dovrai scoprire cosa è successo a Misao...  e se sei davvero pronto ad affrontare la verità. Ogni azione ha conseguenze e non tutti meritano il perdono. Chi era davvero Misao? E cosa ha scatenato la sua ira? In questo gioco, non è la morte la vera punizione.",
+        "spoiler": "All'inizio tutto sembra ruotare intorno a una semplice leggenda urbana: Misao, una studentessa scomparsa mesi prima, è forse coinvolta in strani eventi paranormali. Tu interpreti Aki, una compagna di classe che, a differenza degli altri, non ha mai dimenticato Misao. Quando un giorno la scuola viene improvvisamente trasportata in un’altra dimensione piena di sangue, trappole e spiriti vendicativi, capisci che qualcosa di terribile è successo… e ora esige giustizia.\n\nPezzo dopo pezzo, esplorando le aule, i bagni infestati e i corridoi oscuri, ricostruisci il puzzle: Misao è stata bullizzata brutalmente, molestata, tradita da chi diceva di esserle amico. Ogni morte in questa nuova dimensione non è casuale: è una punizione, decisa dalla rabbia che Misao ha lasciato dietro di sé. I tuoi compagni vengono eliminati uno a uno in modi crudi e simbolici, ciascuno legato alle loro colpe.\n\nMa non tutto è bianco o nero. Quando riesci a raccogliere i resti di Misao e a rimetterli insieme, puoi finalmente parlare con lei… e scoprire la verità più inquietante: tra i responsabili del suo dolore c’è anche il professore, Mr. Sohta, che si era sempre presentato come gentile e protettivo. In realtà, è un sadico manipolatore con un segreto agghiacciante nascosto nel suo armadietto.\n\nAlla fine, puoi scegliere: aiutare Misao a vendicarsi… o perdonare, interrompendo il ciclo di odio. Ma qualunque decisione tu prenda, il trauma è già avvenuto. E i fantasmi del passato non spariscono così facilmente.\n",
+        "voto": "0",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Grafica & Audio (in stile RPG Maker)",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Gameplay & Puzzle design",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Impatto emotivo e morale",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/misao.jpg",
+        "trailer": "https://www.youtube.com/watch?v=uHKCJUdPB3Y&ab_channel=GameTrailers",
+        "guide": "https://steamcommunity.com/app/691450/guides/?l=italian"
+    },
+    {
+        "id": "8",
+        "title": "Ib",
+        "year": 2012,
+        "developer": "kouri",
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 4"
+        ],
+        "genres": [
+            "Survival Horror",
+            "Avventura",
+            "Single-player"
+        ],
+        "description": "Una tranquilla visita al museo si trasforma in un incubo. Ib racconta la storia di una bambina silenziosa che si perde in un mondo surreale e inquietante all'interno di una mostra d'arte. Le pareti iniziano a sanguinare, i dipinti si animano e ogni stanza sembra nascondere un enigma... o un pericolo. Con una grafica minimale, ma suggestiva, Ib è un'avventura horror psicologica che mette al centro l'atmosfera. l'emotività e le scelte del giocatore. Chi incontrerai? Di chi ti potrai fidare? Tra corridoi claustrofobici e opere d'arte viventi, ogni dettaglio racconta qualcosa. E ogni finale dipende da te. Non si tratta solo di uscire. Si tratta di capire cosa ti ha fatto entrare.",
+        "spoiler": "Ib inizia in modo tranquillo: sei una bambina di nove anni, in visita con i genitori a una galleria d’arte. Tutto è normale, finché non resti sola. Le luci si spengono, i quadri iniziano a muoversi, e il museo si trasforma in un mondo distorto, dove ogni opera sembra voler comunicare qualcosa… o distruggerti.\n\nTi ritrovi intrappolata in una dimensione alternativa, popolata da creature astratte, enigmi inquietanti e messaggi criptici. Presto incontri Garry, un giovane gentile e protettivo, che diventa il tuo unico alleato nel tentativo di fuggire. Più tardi si aggiunge Mary, una bambina misteriosa e vivace... troppo vivace. Col tempo scopri che Mary non è umana, ma un’opera d’arte vivente che vuole prendere il tuo posto nel mondo reale.\n\nIl gioco si basa su enigmi ambientali e simbolismo visivo. Le “vite” dei personaggi sono rappresentate da rose colorate: quando i petali cadono, la vita si spegne. Un tocco poetico che amplifica la tensione.\n\nIl finale dipende dalle tue azioni, dalla fiducia tra i personaggi e dai dettagli che raccogli lungo il percorso. In alcuni finali puoi salvare Garry e tornare alla realtà con i suoi ricordi intatti… in altri, lui sparisce, dimenticato per sempre. In quello più inquietante, Mary riesce a uscire nel mondo reale al tuo posto, condannandoti all’oblio.\n\nMa in ogni versione, resta lo stesso messaggio: anche l’arte può avere un’anima. E non sempre è bene svegliarla.",
+        "voto": "6",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Grafica & Stile artistico",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay e Puzzle design",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Personaggi e relazioni",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Impatto emotivo e simbolismo",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/ib.png",
+        "trailer": "https://www.youtube.com/watch?v=TTRPYLjRGjA&ab_channel=NintendoofAmerica",
+        "guide": "https://ibgame.forumcommunity.net/?t=52263584"
+    },
+    {
+        "id": "9",
+        "title": "Mad Father",
+        "year": 2012,
+        "developer": "Sen",
+        "platforms": [
+            "PC",
+            "Nintendo Switch"
+        ],
+        "genres": [
+            "Survival Horror",
+            "Avventura",
+            "Indie",
+            "Rompicapo",
+            "Single-player"
+        ],
+        "description": "Nella grande villa immersa nella neve, qualcosa si muove nel seminterrato. In Mad Father interpreti Aya, una bambina curiosa e affezionata a suo padre - un medico brillante ma inquietante - Quando strani eventi iniziano a verificarsi nella notte dell'anniversario della morte di sua madre, Aya si ritrova a esplorare gli oscuri segreti che si nascondono sotto casa sua. Cadaveri, esperimenti, spiriti vendicativi: la villa è un labirinto macabro pieno di rivelazioni. Ma la verità più terificante potrebbe essere queòòa più vicina a lei. Con una trama intensa, ambientazioni gotiche e puzzle ben integrati, Mad Father è un viaggio tra orrore, amore distorto e scelta morale. Fino a che punto ti spingeresti per la famiglia?",
+        "spoiler": "Mad Father ti mette nei panni di Aya Drevis, una bambina che vive in una villa isolata con il padre Alfred, uno scienziato inquietante, e la memoria sempre viva della madre scomparsa. Fin dall’inizio, qualcosa non torna: urla nel cuore della notte, stanze chiuse, un laboratorio proibito sotto la casa. Poi, una sera, tutto esplode. La villa viene invasa da spiriti vendicativi e creature deforme: le vittime degli esperimenti del padre sono tornate per reclamare giustizia.Man mano che esplori la casa, scopri l’orrore: Alfred non è solo un medico, ma uno psicopatico, che ha rapito e smembrato donne per i suoi studi e per costruire un corpo 'perfetto'. E non era solo: la madre di Aya, apparentemente gentile, sapeva tutto… e l’ha aiutato. Ma il vero colpo di scena arriva nel laboratorio: Alfred non vuole fuggire o pentirsi. Vuole trasferire l’anima di Aya in una bambola, per conservarla per sempre giovane e 'pura'. La scelta ora è tua: salvarti, aiutarlo… o distruggere tutto. Il gioco presenta diversi finali, ognuno dei quali ridefinisce la morale della storia. In alcuni, Aya eredita la follia del padre, aprendo una clinica tutta sua. In altri, cerca di scappare e redimersi. Ma il messaggio resta: il male non nasce dal nulla. A volte lo cresci in casa.",
+        "voto": "9",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Grafica & Effetti visivi (per RPG Maker)",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Gameplay & Finali alternativi",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Impatto emotivo",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/madfather.jpg",
+        "trailer": "https://www.youtube.com/watch?v=V3jrnDe_8GM&ab_channel=PLAYISM",
+        "guide": "https://mad-father.fandom.com/wiki/Walkthrough"
+    },
+    {
+        "id": "10",
+        "title": "To the Moon",
+        "year": 2011,
+        "developer": "Freebird Games",
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 5"
+        ],
+        "genres": [
+            "Avventura",
+            "Indie",
+            "Visual Novel",
+            "Single-player"
+        ],
+        "description": "Johnny ha un desiderio: andare sulla Luna. Ma non ha molto tempo. In To the Moon, vestiamo i panni di due medici specializzati in un lavoro molto particolare: impiantare ricordi artificiali nei pazienti morenti, affinché possano realizzare il loro ultimo sogno... almeno nella loro mente. Per esaudire il desiderio di Johnny, dovrai viaggiare nei suoi ricordi, dal presente fino all'infanzia, scoprendo lentamente chi era davvero, chi ha amato e perché ha chiesto proprio questo. To the Moon è una storia profonda, tenera e struggente, che parla di rimpianti, memoria e amore. Senza combattimenti, ma con una colonna sonora indimenticabile e un racconto che rimarrà con te a lungo. A volte, il viaggio più importante è dentro di noi.",
+        "spoiler": "In To the Moon, non interpreti un eroe, ma due medici: Eva Rosalene e Neil Watts, membri di un’agenzia speciale che esaudisce l’ultimo desiderio delle persone... riscrivendone artificialmente i ricordi prima della morte. Il loro nuovo paziente è Johnny Wyles, un uomo anziano ormai in fin di vita, che ha un solo, enigmatico desiderio: andare sulla Luna. Ma non sa il perché.\n\nPer esaudire il suo desiderio, dovrai attraversare la sua memoria al contrario, saltando da un ricordo all’altro, ricostruendo i momenti salienti della sua vita: l'infanzia solitaria, il matrimonio con River, una donna autistica e tenera, e una serie di eventi quotidiani, dolorosi e dolcissimi, che lentamente svelano una verità dimenticata.\n\nRiver ha passato gran parte della vita a costruire origami a forma di coniglio. Johnny non capisce perché. Ma nei ricordi d'infanzia più remoti, scopri che i due si erano già incontrati da bambini, e avevano fatto una promessa sotto le stelle: ritrovarsi un giorno sulla Luna, se mai si fossero persi.\n\nA causa di un trauma e di un farmaco somministrato da piccolo, Johnny ha dimenticato quell'incontro. E River, che invece lo ricordava, ha vissuto tutta la sua vita cercando di riportare alla luce quella promessa… senza mai spiegarla apertamente.\n\nAlla fine, Eva e Neil riescono a impiantare i ricordi artificiali: Johnny ricorda il motivo, va sulla Luna... e muore sereno, mano nella mano con River, nello spazio infinito dei suoi pensieri.\n",
+        "voto": "1",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Emozione e profondità",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Colonna sonora",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay (narrativo)",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Stile visivo & direzione artistica",
+                "voto": "⭐⭐⭐⭐☆"
+            }
+        ],
+        "image": "/asset/tothemoon.jpg",
+        "trailer": "https://www.youtube.com/watch?v=sqkJuSV-23U&ab_channel=KanGao",
+        "guide": "https://www.trueachievements.com/game/To-the-Moon/walkthrough/1"
+    },
+    {
+        "id": "11",
+        "title": "Finding Paradise",
+        "year": 2017,
+        "developer": "Freebird Games",
+        "platforms": [
+            "PC"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Visual Novel",
+            "Single-player"
+        ],
+        "description": "Ogni vita è piena di sogni non realizzati. Alcuni troppo grandi. Altri, semplicemente... dimenticati. In Finding Paradise, seuqel diretto di To the Moon, torniamo a seguire i dottori Eva Rosalene e Neil Watts nel loro delicato lavoro: modificare i ricordi di un paziente morente per permettere di realizzare il suo desiderio più profondo. Questa volta il paziente è Colin, un uomo la cui richiesta non è quella di cambiare la propria vita.. ma di capirla. Viaggerai tra i suoi ricordi, in un racconto malinconico e riflessivo che esplora l'identità, la dualità tra realtà e desiderio e il valore dei piccoli momenti. Finding Paradise non è solo un gioco, ma un'esperienza narrativa capace di toccare corde profonde, con una colonna sonora emozionante e una scrittura delicata. Perché a volte, ciò che cerchiamo non è un nuovo inzio, ma una nuova prospettiva.",
+        "spoiler": "In Finding Paradise torni a vestire i panni dei medici Eva Rosalene e Neil Watts, stavolta chiamati ad esaudire l’ultimo desiderio di Colin Reeds, un uomo che, apparentemente, ha avuto una vita normale, equilibrata, serena. Moglie, figlio, carriera da pilota. Nulla di tragico, nulla da rimpiangere... eppure qualcosa non va.\n\nColin chiede un desiderio impossibile: vuole cambiare qualcosa nella sua vita, ma non vuole che nulla cambi davvero.\nCosì Eva e Neil si trovano a scavare tra i ricordi di un uomo in conflitto con sé stesso. Il gioco si sviluppa come un viaggio al contrario nella sua mente: dalla vecchiaia all’infanzia, esplorando momenti quotidiani che, insieme, raccontano una crisi di identità silenziosa ma profonda.\n\nAl centro di tutto c’è Faye, l’amica immaginaria di Colin da bambino. Un personaggio solo lui può vedere, ma che lo accompagna fino all’età adulta come se fosse reale. E qui arriva la rivelazione più potente: Faye è la rappresentazione della sua parte più autentica, dei suoi sogni, del suo desiderio di libertà… che ha sacrificato per vivere una vita sicura, stabile, “giusta”.\n\nIn un atto struggente, la coscienza di Faye si ribella al sistema di Eva e Neil, rifiutandosi di essere cancellata. Solo affrontandola e accettandola, Colin può finalmente trovare pace, non con un ricordo fittizio, ma con la consapevolezza di aver fatto ciò che poteva, anche se non ha seguito i suoi sogni fino in fondo.\n\nAlla fine, non viene impiantata alcuna illusione. Colin muore sapendo di non aver raggiunto tutto ciò che voleva… ma di aver trovato un equilibrio tra sogno e realtà.\n",
+        "voto": "2",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Emozione e profondità",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Colonna sonora",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay (narrativo)",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Stile visivo & direzione artistica",
+                "voto": "⭐⭐⭐⭐☆"
+            }
+        ],
+        "image": "/asset/findingparadise.jpg",
+        "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922167442&searchtext=%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A+Finding+Paradise"
+    },
+    {
+        "id": "12",
+        "title": "Chrono Trigger",
+        "year": 1995,
+        "developer": "Freebird Games",
+        "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Story Rich"
+        ],
+        "description": "Quando il tempo si spezza, l'umanità è l'unica cosa che può salvarlo. Chrono Trigger è un'epica avventura attraverso epoche passate, future e dimenitcate, dove ogni scelta, battaglia e amicizia lascia un'impronta nella storia. Con personaggi indimenticabili, un sistema di combattimento innovativo e più finali, è considerato uno dei più grandi RPG di tutti i tempi. Non viaggi solo nel tempo. Viaggi in ciò che conta.",
+        "spoiler": "Chrono Trigger inizia come una semplice avventura: sei Crono, un ragazzo qualunque che, durante una fiera, finisce coinvolto in un esperimento di teletrasporto. Ma qualcosa va storto: Marle, una ragazza incontrata per caso, sparisce in un portale temporale. Da lì, il gioco esplode in una delle narrazioni più ambiziose di sempre. Viaggerai attraverso epoche diverse: il Medioevo, il futuro post-apocalittico, l’antichità magica, l’era preistorica, e persino la fine del tempo. Ogni epoca ha la sua atmosfera, i suoi nemici, i suoi drammi. Il legame che le unisce è una minaccia: Lavos, un essere extraterrestre che dorme sotto la crosta terrestre, crescendo nel silenzio per poi distruggere tutto nel 1999. Ma Chrono Trigger non è solo la storia di come salvare il mondo. È la storia di ogni personaggio: di Frog, un cavaliere maledetto; di Robo, un robot con un cuore umano; di Magus, un nemico che si rivela fratello perduto e tragico; di Lucca, la scienziata tormentata dal suo passato; e persino di Crono, che a un certo punto muore… e può essere salvato solo se lo desideri davvero. Il gioco offre oltre 13 finali differenti, basati sulle tue scelte, il momento in cui affronti Lavos, e i tuoi legami con i personaggi. Puoi persino affrontare il boss finale all'inizio della partita, in una delle prime implementazioni di New Game+ della storia. Il messaggio di Chrono Trigger è chiaro: il tempo può essere cambiato, ma le conseguenze sono sempre reali.",
+        "voto": "10",
+        "recensione": [
+            {
+                "voce": "Storia e Atmosfera",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Sistema di combattimento",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Personaggi e sviluppo",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Colonna sonora",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Rigiocabilità & Finali alternativi",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/chronotrigger.png",
+        "trailer": "https://www.youtube.com/watch?v=2fl-AylaHY8&ab_channel=SquareEnix",
+        "guide": "https://multiplayer.it/soluzioni/chrono-trigger-soluzione.html"
+    },
+    {
+        "id": "13",
+        "title": "Yume Nikki",
+        "year": 2004,
+        "developer": "KIKIYAMA",
+        "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Psychological Horror"
+        ],
+        "description": "Chiudi gli occhi. Apri la porta. In Yume Nikki esplori i sogni frammentati e inquietanti di una ragazza che non parla  e non esce mai dalla sua stanza. Senza dialoghi né spiegazioni, attraversi paesaggi surreali, misteriosi e spesso disturbanti, in un'esperienza che lascia spazio solo a interpretazioni e sensazioni. Non è un incubo. È solo il mondo che vive dentro di te.",
+        "spoiler": "In Yume Nikki non ci sono nemici, dialoghi né obiettivi espliciti. Interpreti Madotsuki, una ragazza silenziosa che si rifiuta di uscire dal suo appartamento. L’unico modo per “giocare” è dormire. Solo nei sogni puoi muoverti. Ma ciò che trovi là dentro non è un sogno. È un viaggio in un inconscio spezzato.\n\nIl gameplay si basa sull’esplorazione libera di ambienti surreali e spesso inquietanti: deserti rossi, città senza uscita, grotte piene di occhi, corridoi infiniti, strade buie, esseri alieni, paesaggi glitchati. Ogni mondo ha una sua logica, ma mai esplicita. L’obiettivo è raccogliere \"Effetti\", oggetti simbolici (come capelli lunghi, un coltello, una bicicletta) che ti trasformano o ti permettono di accedere a nuove aree. Ma nessuno ti dice cosa significano. Nessuno ti dice perché sei lì.\n\nUno dei momenti più famosi (e terrificanti) è l’incontro con Uboa, un’entità deforme che appare solo in condizioni molto specifiche e ti intrappola in un incubo senza uscita. Ma questo è solo uno dei tanti simboli che i giocatori hanno interpretato in infiniti modi: alienazione, abuso, depressione, reclusione, trauma infantile.\n\nIl finale è tanto semplice quanto devastante: dopo aver raccolto tutti gli effetti, Madotsuki si sveglia, li deposita… e si getta dal balcone del suo appartamento. Nessuna spiegazione. Nessuna parola. Solo un suono sordo, e il sangue che si espande sul marciapiede.",
+        "voto": "4",
+        "recensione": [
+            {
+                "voce": "Atmosfera & Simbolismo",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Originalità e sperimentazione",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Musica & Immersione",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Gameplay non convenzionale",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Impatto emotivo & culturale",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/yumenikki.jpg",
+        "trailer": "https://www.youtube.com/watch?v=GsvcND8NQEg&ab_channel=PLAYISM",
+        "guide": "https://gamefaqs.gamespot.com/pc/230430-yume-nikki/faqs/52629"
+    },
+    {
+        "id": "14",
+        "title": "A Space for the Unbound",
+        "year": 2023,
+        "developer": "Mojiken Studio, Toge Productions",
+        "platforms": [
+            " Windows",
+            "macOS",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Story Rich"
+        ],
+        "description": "A volte, per trovare te stesso, devi prima attraversare il mondo degli altri. Ambientato nell'Indonesia degli anni '90, A SPace for the Unbound è un racconto toccante sull'adolescenza, l'ansia e i legami invisibili tra le persone. Tra poteri memtali, gatti parlanti e realtà che si piegano alle emozioni, ti muoverai in una storia delicata e potente, dove ogni personaggio ha un cuore che vale la pena ascoltare. Un'avventura pixelata, ma con emozioni ad alta risoluzione.",
+        "spoiler": "In A Space for the Unbound sei Atma, uno studente dell’ultimo anno, pigro ma dal cuore gentile, che vive la sua quotidianità con la fidanzata Raya, tra sogni, gatti e sogni sul futuro. Ma ben presto, la realtà inizia a sgretolarsi: si aprono crepe nel cielo, i ricordi si confondono, le persone si comportano in modo strano. E soprattutto, Raya sembra avere poteri sovrannaturali che deformano il mondo.\n\nAtma scopre di poter \"entrare nella mente\" delle persone con un potere chiamato Space Dive, immergendosi nei loro traumi, insicurezze e ricordi soppressi. Ogni immersione è un viaggio simbolico e psicologico che ti svela frammenti di verità su chi ti circonda… e su te stesso.\n\nCol tempo, emerge una verità terribile: Atma è morto anni prima, e tutto quello che stai vivendo è una simulazione mentale creata da Raya, che non riesce ad accettare la perdita. Il mondo si deforma sempre di più, inizia a collassare su sé stesso, e anche il confine tra amore e controllo diventa fragile.\n\nAlla fine, Atma deve aiutare Raya ad accettare la realtà e lasciarlo andare. Solo affrontando insieme il dolore possono spezzare il ciclo di rimozione e negazione. L’ultimo atto è dolce e devastante: Raya lo lascia andare… e la città torna in silenzio, come dopo un lungo sogno.",
+        "voto": "3",
+        "recensione": [
+            {
+                "voce": "Storia & Profondità emotiva",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Ambientazione e direzione artistica",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay & Esperienza narrativa",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Temi trattati con sensibilità",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Colonna sonora",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/aspacefortheunbound.jpg",
+        "trailer": "https://www.youtube.com/watch?v=dobGFiasync&ab_channel=NintendoofAmerica",
+        "guide": "https://www.neoseeker.com/a-space-for-the-unbound/walkthrough"
+    },
+    {
+        "id": "15",
+        "title": "Rakuen",
+        "year": 2017,
+        "developer": "Laura Shigihara",
+        "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Story Rich"
+        ],
+        "description": "Un bambino, un libro e un mondo che unisce fantasia e dolore. In Rakuen accompagnerai un piccolo paziente e sua madre in un'avventura attraverso un regno magico connesso ai ricordi e alle vite reali degli altri pazienti dell'ospedale. Con'unestetica tenera, una colonna sonora commovente e zero combattimenti, è un gioco che tu farà ridere, pensare e,molto probabilmente piangere. Non si tratta di combattere. Si tratta di guarire.",
+        "spoiler": "Rakuen ti mette nei panni di un bambino malato, costretto a letto in un ospedale. Non ha nome, né voce, ma ha un desiderio: che la madre gli legga il suo libro preferito, Rakuen, una fiaba su un ragazzo che viaggia in un mondo magico per chiedere un desiderio al Guardiano della Foresta.\n\nBen presto, scopri che il mondo di Rakuen non è solo una storia, ma un universo parallelo, collegato alle anime dei pazienti dell’ospedale. Ogni stanza diventa un portale verso un personaggio spezzato: un vecchio solo, una ragazza depressa, un uomo che ha perso il figlio. Il tuo compito è aiutarli ad affrontare i loro rimpianti, le loro paure, i loro ultimi pensieri.\n\nOgni area è un piccolo universo narrativo, fatto di puzzle simbolici e scelte emotive. Insieme a tua madre – sempre presente, dolce, paziente – visiti questi mondi e li guarisci con gentilezza e ascolto. Ma più vai avanti, più ti avvicini alla verità.\n\nIl bambino non tornerà mai a casa.\n\nIl mondo di Rakuen è la sua ultima avventura, un modo per accettare la morte senza rabbia, per dire addio con il cuore leggero. Nell’atto finale, il Guardiano ti concede il desiderio… ma il desiderio non è guarire, né vivere per sempre. È lasciare andare. Con tua madre al tuo fianco, attraversi la soglia. E scompari, in una luce che sa di musica, memoria e amore.\n",
+        "voto": "4",
+        "recensione": [
+            {
+                "voce": "Emozione & Significato",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Storia & Personaggi",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Musica & Narrazione sonora",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Gameplay semplice ma efficace",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Impatto duraturo",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/rakuen.jpg",
+        "trailer": "https://www.youtube.com/watch?v=AvPThUEI2fE&ab_channel=supershigi",
+        "guide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2013348222"
+    },
+    {
+        "id": "16",
+        "title": "Everhood",
+        "year": 2021,
+        "developer": "Foreign Gnomes",
+        "platforms": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "genres": [
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "description": " Tu non sei il protagonista. Tu sei solo un burattino rosso senza braccio. Everhood è un viaggio psichedelico tra musica, assurdità e filosofia, dove ogni scontro è un duello ritmico e ogni personaggio sfida le regole della realtà. Ispirato a Undertale, ma più anarchico e psichedelico, ti porta a domandarti: cosa significa esistere in un mondo fatto solo per giocarre? La regola è : non ci sono regole. Solo ritmo, caos e decisioni irreversibili.",
+        "spoiler": " In Everhood sei Red, un burattino senza un braccio, risvegliato in un mondo surreale dove nulla ha un senso convenzionale. La tua missione iniziale sembra semplice: recuperare il braccio rubato da Gold Pig. Ma molto presto, il gioco si trasforma. L’universo che esplori è un miscuglio di colori psichedelici, personaggi eccentrici e… battaglie musicali, dove invece di attaccare, devi evitare gli attacchi seguendo il ritmo. Fin dall'inizio, capisci che nulla è reale come sembra. Le battaglie diventano esperienze sensoriali. I personaggi sembrano parlare in codice, con frasi che sfiorano l’assurdo e l’esistenziale. C'è chi vuole morire, chi si è dimenticato cosa significa esistere, chi cerca il significato dell'immortalità. E qui arriva il colpo di scena: Red era uno degli Immortali, ma ha scelto di perdere la memoria. Il mondo in cui ti trovi è popolato da esseri eterni che non possono morire, condannati a un ciclo infinito di noia e stagnazione. La vera missione non è salvare, ma porre fine. Red, ora consapevole, deve aiutare tutti i personaggi a morire, liberandoli dalla prigione dell’eternità. Uno a uno, attraverso battaglie intense e dolorose, li accompagni verso il loro addio. Il finale ti pone di fronte alla scelta definitiva: porre fine a tutto… o lasciare che il ciclo continui. Ma quale delle due è davvero compassione? E tu, come giocatore, sei pronto a lasciarli andare?",
+        "voto": "8",
+        "recensione": [
+            {
+                "voce": "Originilità & Direzione artistica",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Colonna sonora & Battle system",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Narrazione filosofica & impatto emotivo",
+                "voto": "⭐⭐⭐⭐⭐"
+            },
+            {
+                "voce": "Accessibilità del gameplay",
+                "voto": "⭐⭐⭐⭐☆"
+            },
+            {
+                "voce": "Esperienza complessiva",
+                "voto": "⭐⭐⭐⭐⭐"
+            }
+        ],
+        "image": "/asset/everhood.webp",
+        "trailer": "https://www.youtube.com/watch?v=iknL_MyBr_8&ab_channel=GameTrailers",
+        "guide": "https://everhood.fandom.com/wiki/Endings"
+    }
 ]

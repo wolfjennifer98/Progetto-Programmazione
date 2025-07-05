@@ -3,7 +3,7 @@ import { database } from "./connection.js";
 
 const dbRef = ref(database);
 
-export async function getPreferitibynickname(nickname) {
+async function getPreferitibynickname(nickname) {
   const snapshot = await get(child(dbRef, "preferiti/" + nickname));
   const dati = snapshot.val();
 
@@ -14,7 +14,7 @@ export async function getPreferitibynickname(nickname) {
   return Object.keys(dati);
 }
 
-export async function createPreferiti(nickname, titoloGioco) {
+async function createPreferiti(nickname, titoloGioco) {
   try {
     const preferitiSnapshot = await get(child(dbRef, "preferiti/" + nickname));
     const preferitiCorrenti = preferitiSnapshot.exists()
@@ -30,25 +30,31 @@ export async function createPreferiti(nickname, titoloGioco) {
     throw error;
   }
 }
-export async function removePreferiti(nickname, titoloGioco) {
-  return new Promise((resolve, reject) => {
-    get(ref(database, "preferiti/" + nickname))
-      .then((snapshot) => {
-        if (snapshot.exists()) {
-          const lista = snapshot.val();
 
-          if (typeof lista !== "object") {
-            return reject("La lista dei preferiti non è un array.");
-          }
+async function removePreferiti(nickname, titoloGioco) {
+  try {
+    const snapshot = await get(child(dbRef, `preferiti/${nickname}`));
 
-          delete lista[titoloGioco];
-          set(ref(database, "preferiti/" + nickname), lista)
-            .then(resolve)
-            .catch(reject);
-        } else {
-          reject("Nessun preferito trovato per l'utente.");
-        }
-      })
-      .catch((error) => reject(error));
-  });
+    if (!snapshot.exists()) {
+      throw new Error("Nessun preferito trovato per l'utente.");
+    }
+
+    const lista = snapshot.val();
+
+    if (typeof lista !== "object" || lista === null) {
+      throw new Error("La lista dei preferiti non è valida.");
+    }
+
+    delete lista[titoloGioco];
+
+    // Salva nuovamente la lista aggiornata
+    await set(ref(database, `preferiti/${nickname}`), lista);
+
+    return lista;
+  } catch (error) {
+    console.error("Errore durante la rimozione del preferito:", error);
+    throw error;
+  }
 }
+
+export { getPreferitibynickname, createPreferiti, removePreferiti };

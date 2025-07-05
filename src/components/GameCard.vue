@@ -1,5 +1,6 @@
 <template>
   <div class="card pixel h-100">
+    <!-- Copertina del gioco -->
     <img
       :src="game.image"
       alt="copertina"
@@ -7,6 +8,7 @@
       style="max-height: 150px"
     />
 
+    <!-- Corpo della card -->
     <div
       class="card-body d-flex flex-column justify-content-around align-items-center bg-dark text-white"
     >
@@ -19,6 +21,8 @@
         >
           Scopri
         </router-link>
+
+        <!-- Pulsante per aggiungere/rimuovere dai preferiti -->
         <button
           class="btn btn-outline-light p-2 d-flex align-items-center justify-content-center"
           @click.stop.prevent="togglePreferito"

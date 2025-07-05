@@ -12,22 +12,7 @@
           <div class="card p-4 shadow-sm">
             <div v-if="!loading">
               <div class="d-flex flex-column align-items-center mb-3">
-                <input
-                  type="file"
-                  id="uploadImg"
-                  accept="image/*"
-                  class="d-none"
-                  @change="handleImageUpload"
-                />
-                <img
-                  v-if="immagine"
-                  :src="immagine"
-                  alt="Foto profilo"
-                  class="rounded-circle shadow m-2 d-block"
-                  style="width: 100px; height: 100px; object-fit: cover"
-                />
                 <div
-                  v-else
                   class="rounded-circle d-flex align-items-center justify-content-center m-2 profilo-placeholder"
                   style="width: 100px; height: 100px"
                 >
@@ -41,6 +26,7 @@
                   type="text"
                   class="form-control"
                   v-model="nickname"
+                  style="background-color: gray"
                   disabled
                 />
               </div>
@@ -168,17 +154,6 @@ async function salvaModifiche() {
   }
   if (!utenteKey) {
     alert("Utente non loggato.");
-    return;
-  }
-}
-
-async function handleImageUpload(event) {
-  const file = event.target.files[0];
-  if (!file) return;
-
-  const utenteKey = localStorage.getItem("utenteNickname");
-  if (!utenteKey) {
-    alert("Utente non loggato");
     return;
   }
 }

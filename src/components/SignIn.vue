@@ -1,8 +1,10 @@
 <template>
+  <!-- Contenitore centrale a schermo intero -->
   <div
     class="container-fluid min-vh-100 d-flex align-items-center justify-content-center px-3"
   >
     <div class="row w-100 justify-content-center align-items-center">
+      <!-- Colonna sinistra con logo e descrizione -->
       <div class="col-12 col-md-6 text-center text-white mb-4 mb-md-0">
         <img
           src="@/assets/logo.png"
@@ -19,13 +21,17 @@
         </p>
       </div>
 
+      <!-- Colonna destra con il form di registrazione -->
       <div class="col-12 col-md-6">
         <div
           class="card p-4 shadow"
           style="width: 100%; max-width: 500px; margin: 0 auto"
         >
           <h3 class="text-center mb-4">Registrati</h3>
+
+          <!-- Form con input collegati a v-model -->
           <form @submit.prevent="handleSignIn">
+            <!-- Nome e Cognome -->
             <div class="row">
               <div class="col-md-6 mb-3">
                 <label class="form-label">Nome</label>
@@ -47,6 +53,7 @@
               </div>
             </div>
 
+            <!-- Email e Password -->
             <div class="row">
               <div class="col-md-6 mb-3">
                 <label class="form-label">Email</label>
@@ -68,6 +75,7 @@
               </div>
             </div>
 
+            <!-- Conferma password -->
             <div class="mb-3">
               <label class="form-label">Conferma Password</label>
               <input
@@ -78,6 +86,7 @@
               />
             </div>
 
+            <!-- Nickname -->
             <div class="mb-3">
               <label class="form-label">Nickname</label>
               <input
@@ -88,11 +97,13 @@
               />
             </div>
 
+            <!-- Bottone -->
             <button class="btn btn-primary w-100" type="submit">
               Conferma
             </button>
           </form>
 
+          <!-- Link per chi ha già un account -->
           <div class="text-center mt-3">
             <span>
               Hai già un account?
@@ -116,6 +127,8 @@ const email = ref("");
 const password = ref("");
 const nickname = ref("");
 const confirmPassword = ref("");
+
+// Inizializza il router
 const router = useRouter();
 
 async function handleSignIn() {
@@ -123,6 +136,7 @@ async function handleSignIn() {
     alert("Le password non coincidono!");
     return;
   }
+
   try {
     await createutente(
       email.value,
@@ -131,7 +145,6 @@ async function handleSignIn() {
       password.value,
       nickname.value
     );
-    alert("Utente salvato nel database!");
     router.push("/Home");
   } catch (error) {
     console.error("Errore nella registrazione:", error);
@@ -139,14 +152,3 @@ async function handleSignIn() {
   localStorage.setItem("utenteNickname", nickname.value);
 }
 </script>
-
-<script>
-export default {
-  name: "SignInPage",
-};
-</script>
-<style scoped>
-.text-acqua {
-  color: #00ffcc;
-}
-</style>
