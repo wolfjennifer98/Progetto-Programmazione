@@ -25,7 +25,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from "vue";
+import { ref, computed, onMounted, watch } from "vue";
 import { useRoute } from "vue-router";
 import GameCard from "@/components/GameCard.vue";
 import Navbar from "@/components/Navbar.vue";
@@ -37,7 +37,7 @@ const searchTerm = ref(route.query.ricerca || "");
 const selectedGenres = ref(
   route.query.generi ? route.query.generi.split(",") : []
 );
-import { watch } from "vue";
+
 watch(
   () => route.query,
   (newQuery) => {

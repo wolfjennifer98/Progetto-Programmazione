@@ -4,7 +4,8 @@ import { RouterView } from "vue-router";
 
 <template>
   <div>
-    <main class="main-content py-5">
+    <main class="py-5">
+      <!-- visualizzata la view corrispondente alla route attiva -->
       <RouterView />
     </main>
   </div>

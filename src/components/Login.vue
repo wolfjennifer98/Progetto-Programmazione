@@ -6,6 +6,7 @@
       class="row w-100 justify-content-center align-items-center"
       style="max-width: 900px"
     >
+      <!-- Logo con welcome message -->
       <div class="col-12 col-md-6 text-center text-white p-4">
         <img
           src="@/assets/logo.png"
@@ -16,6 +17,7 @@
         <h2>Entra nel mondo di <span class="text-acqua">PixelPedia</span></h2>
       </div>
 
+      <!-- Form di login -->
       <div class="col-12 col-md-6 d-flex justify-content-center">
         <div class="card p-4 shadow w-100" style="max-width: 400px">
           <h3 class="text-center mb-4">Login</h3>
@@ -92,6 +94,8 @@ async function handleLogin() {
 
   router.push("/home");
 }
+
+// Watchers per resettare gli errori quando l'input cambia per una migliore UX
 
 watch(email, () => {
   emailError.value = false;

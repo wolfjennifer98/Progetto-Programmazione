@@ -139,9 +139,3 @@ async function handleSignIn() {
   localStorage.setItem("utenteNickname", nickname.value);
 }
 </script>
-
-<script>
-export default {
-  name: "SignInPage",
-};
-</script>
