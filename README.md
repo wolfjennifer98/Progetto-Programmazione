@@ -1,13 +1,13 @@
 
 # PixelPedia
 
-La **wiki dedicata ai giochi in 16bit**, dove troverai tutte le info che cerchi sui tuoi giochi retro preferiti â€” **approfondimenti, guide, recensioni e altro ancora**!
+La **wiki dedicata ai giochi in 16bit**, dove troverai tutte le info che cerchi sui tuoi giochi retro preferiti -  **approfondimenti, guide, recensioni e altro ancora**!
 
 ---
 
-## ðŸ§  Requisiti
+## Requisiti
 
-### ðŸ”§ Backend (Python + Flask + API locali)
+### Backend (Python + Flask + API locali)
 - Python 3.10+
 - Flask
 - flask-cors
@@ -42,7 +42,7 @@ Installa le dipendenze:
 npm install
 ```
 
-Avvia il progetto in modalitÃ  sviluppo:
+Avvia il progetto in modalità sviluppo:
 ```bash
 npm run serve
 ```
