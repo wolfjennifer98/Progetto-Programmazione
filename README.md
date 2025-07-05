@@ -1,7 +1,7 @@
 
 # PixelPedia
 
-La **wiki dedicata ai giochi in 16bit**, dove troverai tutte le info che cerchi sui tuoi giochi retro preferiti -  **approfondimenti, guide, recensioni e altro ancora**!
+La **wiki dedicata ai giochi in Pixel Art**, dove troverai tutte le info che cerchi sui tuoi giochi retro preferiti -  **approfondimenti, guide, recensioni e altro ancora**!
 
 ---
 
