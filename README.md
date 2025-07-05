@@ -19,7 +19,7 @@ pip install flask flask-cors
 
 ---
 
-## ðŸš€ Avvio del progetto
+## Avvio del progetto
 
 ### 1. Avvio API Flask (per i giochi)
 Spostati nella directory corretta:
