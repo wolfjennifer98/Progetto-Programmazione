@@ -7,6 +7,7 @@ function getutenti() {
   return new Promise((resolve, reject) => {
     get(child(dbRef, "utenti"))
       .then((snapshot) => {
+        // Controllo esistenza snapshot
         if (snapshot.exists()) {
           resolve(snapshot.val());
         } else {
@@ -42,7 +43,6 @@ function createutente(email, nome, cognome, password, nickname) {
       cognome: cognome,
       password: password,
       nickname: nickname,
-      immagine: "",
     };
 
     console.log("Dati che verranno salvati:", newUser);
@@ -57,8 +57,7 @@ function createutente(email, nome, cognome, password, nickname) {
   });
 }
 
-export { getutenti, getutentebynickname, createutente };
-export async function getUtenteByEmail(email) {
+async function getUtenteByEmail(email) {
   try {
     const snapshot = await get(child(dbRef, "utenti"));
 
@@ -79,3 +78,5 @@ export async function getUtenteByEmail(email) {
     return null;
   }
 }
+
+export { getutenti, getutentebynickname, createutente, getUtenteByEmail };

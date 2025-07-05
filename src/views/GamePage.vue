@@ -1,7 +1,9 @@
 <template>
   <Navbar :showBack="true" />
   <div class="container mt-5 pt-3">
+    <!--Contenuto mostrato solo se sono stati caricati i dati di gioco-->
     <div v-if="game && game.genres" class="row gx-5 gy-4">
+      <!-- Immagine e trailer -->
       <div class="col-12 col-lg-5 text-center">
         <img
           :src="game.image"
@@ -18,6 +20,8 @@
           <span class="fw-bold small">Guarda il trailer</span>
         </a>
       </div>
+
+      <!-- Dettagli gioco -->
       <div class="col-12 col-lg-7 text-white">
         <div class="d-flex align-items-center flex-wrap gap-2 mb-3">
           <h1 class="titolo-gioco text-acqua m-0">{{ game.title }}</h1>
@@ -37,6 +41,7 @@
         <p><strong class="text-acqua">Descrizione (No spoiler):</strong></p>
         <p style="white-space: pre-wrap">{{ game.description }}</p>
 
+        <!-- Pulsante per mostrare/nascondere spoiler -->
         <div class="mt-3">
           <button
             class="btn btn-warning"
@@ -50,6 +55,8 @@
             </p>
           </transition>
         </div>
+
+        <!-- Voto e recensione -->
         <div class="mt-4">
           <img
             :src="votoImagePath"
@@ -75,6 +82,7 @@
           </div>
         </div>
 
+        <!-- Link alla guida -->
         <p class="overflow-hidden">
           <strong class="text-acqua" style="font-size: 1.2rem"
             >Non riesci ad andare avanti nel gioco? Eccoti un aiutino</strong
@@ -84,6 +92,7 @@
           </a>
         </p>
 
+        <!-- Aggiunta/rimozione preferiti -->
         <button class="btn btn-outline-danger mt-3" @click="togglePreferito">
           <i
             :class="
@@ -97,6 +106,7 @@
       </div>
     </div>
 
+    <!-- Messaggio di caricamento o errore -->
     <div v-else class="text-center mt-5 text-white">
       <p>Caricamento in corso o gioco non trovato.</p>
     </div>
@@ -169,10 +179,6 @@ async function togglePreferito() {
   line-height: 1.2;
   word-break: break-word;
   text-align: center;
-}
-
-.text-acqua {
-  color: #00ffcc;
 }
 
 @media (max-width: 768px) {
