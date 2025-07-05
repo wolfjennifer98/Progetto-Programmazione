@@ -1,25 +1,64 @@
-# pixelpedia
 
-## Project setup
+# PixelPedia
+
+La **wiki dedicata ai giochi in 16bit**, dove troverai tutte le info che cerchi sui tuoi giochi retro preferiti â€” **approfondimenti, guide, recensioni e altro ancora**!
+
+---
+
+## ðŸ§  Requisiti
+
+### ðŸ”§ Backend (Python + Flask + API locali)
+- Python 3.10+
+- Flask
+- flask-cors
+
+Installa i pacchetti richiesti:
+```bash
+pip install flask flask-cors
 ```
+
+---
+
+## ðŸš€ Avvio del progetto
+
+### 1. Avvio API Flask (per i giochi)
+Spostati nella directory corretta:
+
+```bash
+cd backend/api_giochi
+```
+
+Avvia il server locale:
+```bash
+python app.py
+```
+
+---
+
+### 2. Avvio del frontend Vue
+
+Installa le dipendenze:
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+Avvia il progetto in modalitÃ  sviluppo:
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+---
+
+### 3. Build per la produzione
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
+---
+
+### 4. Lint e fix dei file
+```bash
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# PixelPedia" 
+---
